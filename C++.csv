@@ -1,0 +1,832 @@
+Kind,Name,CountLineCode,MaxCyclomatic,MaxNesting,SumCyclomatic
+Static Function,"A",8,,0,
+File,"A+B.cpp",7,1,0,1
+File,"AKS test for primes.cpp",75,6,2,16
+File,"Abundant, deficient and perfect number classifications.cpp",28,5,2,8
+File,"Ackermann function.cpp",16,3,2,6
+File,"Additive primes.cpp",37,7,3,13
+File,"Almost prime.cpp",23,4,2,10
+File,"Amicable pairs.cpp",34,8,4,8
+File,"Anonymous recursion.cpp",12,2,1,4
+File,"Anti-primes.cpp",22,4,2,7
+File,"Arithmetic evaluation.cpp",183,14,4,58
+File,"Arithmetic_Integer.cpp",10,1,0,1
+File,"Array concatenation.cpp",35,4,2,5
+File,"Array length.cpp",6,1,0,1
+File,"Arrays.cpp",21,1,0,3
+File,"Binary search.cpp",23,4,1,7
+File,"Call a function.cpp",12,1,0,2
+File,"Carmichael 3 strong pseudoprimes.cpp",48,7,3,18
+File,"Character codes.cpp",5,1,0,1
+File,"Check that file exists.cpp",18,3,2,4
+File,"Chernick's Carmichael numbers.cpp",58,9,3,18
+File,"Chowla numbers.cpp",48,8,3,16
+File,"Circular primes.cpp",67,7,3,17
+File,"Compare length of two strings.cpp",38,5,3,7
+Class,"Compare",11,2,1,3
+Public Function,"Compare::Compare",2,,0,
+Public Function,"Compare::operator()",6,,1,
+File,"Consecutive primes with ascending or descending differences.cpp",47,7,3,9
+File,"Copy a string.cpp",7,1,0,1
+File,"Count in factors.cpp",31,5,4,7
+Class,"Counter",16,1,0,1
+Public Function,"Counter::countClicks",4,,0,
+File,"Create a file.cpp",10,1,0,1
+File,"Cuban primes.cpp",52,16,6,16
+File,"DNS query.cpp",17,3,1,3
+File,"Detect division by zero.cpp",14,1,0,2
+File,"Determine if a string is numeric.cpp",8,2,1,2
+File,"Dragon curve.cpp",157,11,4,32
+File,"Emirp primes.cpp",50,8,2,15
+File,"Empty program.cpp",1,1,0,1
+File,"Environment variables.cpp",5,1,0,1
+File,"Even or odd.cpp",15,1,0,3
+File,"Extensible prime generator.cpp",113,12,3,24
+File,"Extra primes.cpp",61,9,3,21
+Function,"F",9,,1,
+File,"FTP.cpp",165,6,2,17
+File,"Factorial.cpp",4,1,0,1
+File,"Factors of a Mersenne number.cpp",38,5,2,14
+File,"Factors of an integer.cpp",24,4,3,6
+File,"Fermat numbers.cpp",71,5,3,18
+File,"Fibonacci sequence.cpp",13,2,1,2
+File,"File input_output.cpp",22,4,3,4
+File,"Find largest left truncatable prime in a given base.cpp",44,3,1,6
+File,"Find limit of recursion.cpp",9,1,0,2
+File,"FizzBuzz.cpp",26,5,3,5
+File,"Formatted numeric output.cpp",5,1,0,1
+File,"Fortunate numbers.cpp",39,7,3,12
+File,"Fractal tree.cpp",143,3,1,21
+File,"Fractran.cpp",54,5,3,9
+File,"Frobenius numbers.cpp",34,7,2,12
+File,"Function definition.cpp",4,1,0,1
+File,"General FizzBuzz.cpp",32,5,3,10
+Function,"GenerateFactors",12,,3,
+File,"Greatest common divisor.cpp",3,1,0,1
+File,"Greatest element of a list.cpp",11,1,0,2
+File,"HTTP.cpp",23,3,2,3
+File,"Halt and catch fire.cpp",4,1,0,1
+File,"Hamming numbers.cpp",78,4,1,19
+File,"Hello world_Graphical.cpp",6,1,0,1
+File,"Hello world_Text.cpp",3,1,0,1
+File,"Hello world_Web server.cpp",36,5,2,5
+Class,"Hofstadter",12,2,1,4
+Public Static Function,"Hofstadter::F",4,,1,
+Public Static Function,"Hofstadter::M",4,,1,
+File,"Humble numbers.cpp",48,7,3,14
+File,"Increment a numerical string.cpp",44,0,0,0
+File,"Input loop.cpp",26,2,1,5
+File,"Integer comparison.cpp",14,5,1,5
+Function,"InteractiveCompare",9,,1,
+File,"JortSort.cpp",49,3,2,10
+File,"Keyboard input_Obtain a Y or N response.cpp",20,3,1,3
+Static Function,"L",4,,0,
+Class,"LCS",98,10,4,19
+Public Static Function,"LCS::Correspondence",8,,0,
+Protected Static Function,"LCS::FindLCS",39,,4,
+Protected Static Function,"LCS::Match",11,,1,
+Protected Class,"LCS::Pair",15,2,1,3
+Public Function,"LCS::Pair::Pair",3,,0,
+Public Static Function,"LCS::Pair::Reverse",6,,1,
+Protected Static Function,"LCS::Select",10,,1,
+Private Static Function,"LCS::pushPair",5,,0,
+Class Template,"Lazy",16,1,0,2
+Explicit Public Function,"Lazy::Lazy",1,,0,
+Public Function,"Lazy::value",1,,0,
+Class Template,"LazyList",9,1,0,3
+Public Function,"LazyList::LazyList",1,,0,
+Public Function,"LazyList::LazyList",1,,0,
+Public Function,"LazyList::isEmpty",1,,0,
+File,"Least common multiple.cpp",18,2,1,5
+File,"Legendre prime counting function.cpp",49,7,3,16
+File,"Literals_Integer.cpp",7,2,0,2
+File,"Logical operations.cpp",7,1,0,1
+File,"Long primes.cpp",77,7,2,17
+File,"Longest common subsequence.cpp",101,10,4,22
+File,"Loops_Break.cpp",12,3,2,3
+File,"Loops_Do-while.cpp",5,0,0,0
+File,"Loops_Downward for.cpp",2,0,0,0
+File,"Loops_For with a specified step.cpp",2,0,0,0
+File,"Loops_For.cpp",5,0,0,0
+File,"Loops_Increment loop index within loop body.cpp",33,4,3,7
+File,"Loops_Infinite.cpp",2,0,0,0
+File,"Loops_N plus one half.cpp",10,3,2,3
+File,"Loops_While.cpp",5,0,0,0
+File,"Loops_With multiple ranges.cpp",38,10,2,10
+File,"Lucas-Lehmer test.cpp",29,3,2,6
+File,"Ludic numbers.cpp",69,6,3,17
+File,"Magnanimous numbers.cpp",57,13,4,23
+File,"Man or boy test.cpp",18,2,0,6
+File,"Mersenne primes.cpp",23,7,2,10
+File,"Mertens function.cpp",38,8,3,11
+File,"Miller–Rabin primality test.cpp",114,12,2,40
+File,"Motzkin numbers.cpp",43,7,2,11
+File,"Multiplication tables.cpp",43,3,1,12
+File,"Mutual recursion.cpp",29,2,1,6
+File,"Möbius function.cpp",41,11,3,14
+File,"N-smooth numbers.cpp",100,14,3,34
+File,"Nice primes.cpp",31,7,2,13
+File,"Nth root.cpp",16,2,1,3
+Function,"NthRoot",12,,1,
+Function,"NthRoot",4,,0,
+File,"Null object.cpp",7,2,1,2
+File,"Numbers with prime digits whose sum is 13.cpp",9,6,3,6
+File,"Order by pair comparisons.cpp",34,2,1,6
+File,"Order two numerical lists.cpp",19,1,0,1
+File,"Palindrome detection.cpp",4,1,0,1
+File,"Partition an integer x into n primes.cpp",114,10,4,32
+File,"Partition function P.cpp",32,7,3,8
+File,"Perfect numbers.cpp",16,3,2,6
+File,"Pernicious numbers.cpp",55,15,3,15
+Function,"PerpendicularDistance",18,,1,
+File,"Pierpont primes.cpp",77,5,3,12
+File,"Power set.cpp",65,5,3,9
+File,"Primality by Wilson's theorem.cpp",28,9,3,12
+File,"Primality by trial division.cpp",11,5,2,5
+File,"Prime conspiracy.cpp",45,5,2,11
+File,"Prime decomposition.cpp",68,2,1,9
+File,"Primes - allocate descendants to their ancestors.cpp",73,10,4,20
+File,"Primes whose sum of digits is 25.cpp",66,8,3,22
+File,"Primorial numbers.cpp",23,3,1,5
+Function,"PrintOrder",6,,1,
+File,"Program termination.cpp",4,1,0,1
+File,"Proper divisors.cpp",32,5,2,8
+File,"Quickselect algorithm.cpp",10,3,2,3
+File,"RPG attributes generator.cpp",36,5,3,5
+File,"Ramer-Douglas-Peucker line simplification.cpp",78,6,2,10
+Function,"RamerDouglasPeucker",36,,2,
+File,"Ranking methods.cpp",140,7,3,30
+File,"Read a file line by line.cpp",14,3,2,3
+File,"Real constants and functions.cpp",15,1,0,1
+File,"Remove duplicate elements.cpp",10,2,1,2
+File,"Rosetta Code_Rank languages by popularity.cpp",59,6,2,7
+File,"Safe primes and unsafe primes.cpp",44,4,3,8
+File,"Selectively replace multiple instances of a character within a string.cpp",17,3,2,3
+File,"Semiprime.cpp",18,3,2,6
+File,"Send email.cpp",31,2,0,2
+Struct,"Seq",34,7,2,12
+Public Function,"Seq::empty",3,,0,
+Public Function,"Seq::front",3,,0,
+Private Function,"Seq::isPrime",13,,2,
+Public Function,"Seq::popFront",10,,2,
+File,"Sequence of primes by trial division.cpp",24,5,2,8
+File,"Sequence of primorial primes.cpp",38,7,3,13
+File,"Sexy primes.cpp",57,7,4,7
+File,"Sieve of Eratosthenes.cpp",22,3,2,3
+File,"Simple windowed application.cpp",38,1,0,1
+File,"Smarandache prime-digital sequence.cpp",63,9,3,23
+File,"Sockets.cpp",10,1,0,1
+File,"Sort a list of object identifiers.cpp",42,3,1,8
+File,"Sort an array of composite structures.cpp",20,3,1,4
+File,"Sort an integer array.cpp",30,1,0,2
+File,"Sort disjoint sublist.cpp",21,3,1,4
+File,"Sort numbers lexicographically.cpp",32,3,2,10
+File,"Sort three variables.cpp",20,1,0,2
+File,"Sort using a custom comparator.cpp",21,3,1,5
+Struct,"Sort",6,1,0,1
+Public Const Function,"Sort::operator()",4,,0,
+File,"Sorting Algorithms_Circle Sort.cpp",42,6,2,10
+File,"Sorting algorithms_Bead sort.cpp",31,4,1,9
+File,"Sorting algorithms_Bogosort.cpp",22,2,1,4
+File,"Sorting algorithms_Bubble sort.cpp",19,4,3,5
+File,"Sorting algorithms_Cocktail sort with shifting bounds.cpp",44,7,3,11
+File,"Sorting algorithms_Cocktail sort.cpp",95,7,3,14
+File,"Sorting algorithms_Comb sort.cpp",21,1,0,1
+File,"Sorting algorithms_Counting sort.cpp",25,5,2,6
+File,"Sorting algorithms_Cycle sort.cpp",54,8,4,14
+File,"Sorting algorithms_Gnome sort.cpp",25,4,3,5
+File,"Sorting algorithms_Heapsort.cpp",40,5,2,11
+File,"Sorting algorithms_Insertion sort.cpp",17,2,1,4
+File,"Sorting algorithms_Merge sort.cpp",16,1,0,2
+File,"Sorting algorithms_Pancake sort.cpp",37,5,2,8
+File,"Sorting algorithms_Patience sort.cpp",48,5,2,8
+File,"Sorting algorithms_Permutation sort.cpp",7,1,0,1
+File,"Sorting algorithms_Quicksort.cpp",60,1,0,6
+File,"Sorting algorithms_Radix sort.cpp",37,2,1,8
+File,"Sorting algorithms_Selection sort.cpp",12,2,1,3
+File,"Sorting algorithms_Shell sort.cpp",58,6,3,17
+File,"Sorting algorithms_Sleep sort.cpp",13,3,1,4
+File,"Sorting algorithms_Stooge sort.cpp",23,3,1,6
+File,"Sorting algorithms_Strand sort.cpp",20,1,0,1
+File,"Split a character string based on change of character.cpp",12,3,2,4
+File,"Strange numbers.cpp",42,5,2,11
+File,"Strange plus numbers.cpp",34,4,3,9
+File,"Strange unique prime triplets.cpp",55,9,5,18
+File,"String append.cpp",6,1,0,1
+File,"String comparison.cpp",24,5,0,8
+File,"String concatenation.cpp",7,1,0,1
+File,"String interpolation (included).cpp",30,1,0,1
+File,"String matching.cpp",9,0,0,0
+File,"String prepend.cpp",9,1,0,2
+File,"Strong and weak primes.cpp",74,5,2,9
+File,"Substring.cpp",13,1,0,1
+File,"Successive prime differences.cpp",95,4,2,15
+File,"Sudan function.cpp",14,3,1,4
+File,"System time.cpp",10,1,0,1
+File,"Tau number.cpp",27,5,3,9
+File,"The sieve of Sundaram.cpp",29,6,2,9
+Struct,"Token",9,1,0,2
+Public Function,"Token::Token",1,,0,
+Public Function,"Token::Token",1,,0,
+File,"Tokenize a string.cpp",10,2,1,2
+File,"Topological sort.cpp",56,1,0,6
+File,"Totient function.cpp",45,5,2,14
+File,"Towers of Hanoi.cpp",9,2,1,2
+File,"Tree traversal.cpp",73,1,0,9
+Class Template,"TreeNode",48,1,0,8
+Public Function,"TreeNode::TreeNode",1,,0,
+Public Const Function,"TreeNode::getValue",1,,0,
+Public Const Function,"TreeNode::inorderTraverse",1,,0,
+Public Const Function,"TreeNode::left",1,,0,
+Public Const Function,"TreeNode::levelorderTraverse",1,,0,
+Public Const Function,"TreeNode::postorderTraverse",1,,0,
+Public Const Function,"TreeNode::preorderTraverse",1,,0,
+Public Const Function,"TreeNode::right",1,,0,
+File,"Truncatable primes.cpp",62,5,2,11
+File,"Twin primes.cpp",21,5,2,6
+File,"Two's complement.cpp",30,2,1,7
+File,"Ulam spiral (for primes).cpp",87,6,3,25
+File,"Unprimeable numbers.cpp",82,8,4,17
+File,"User input_Text.cpp",11,1,0,1
+File,"Walk a directory_Recursively.cpp",14,1,0,1
+File,"Web scraping.cpp",19,2,1,2
+File,"Wieferich primes.cpp",46,8,3,17
+File,"Wilson primes of order n.cpp",39,7,3,10
+Struct,"Writer_",6,1,0,2
+Public Function,"Writer_::Writer_",1,,0,
+Public Function Template,"Writer_::operator()",1,,0,
+File,"Yellowstone sequence.cpp",39,4,2,6
+File,"Zero to the zero power.cpp",7,1,0,1
+Lambda Function,"[unnamed]",5,,1,
+Lambda Function,"[unnamed]",4,,0,
+Lambda Function,"[unnamed]",0,,0,
+Lambda Function,"[unnamed]",0,,0,
+Lambda Function,"[unnamed]",1,,0,
+Lambda Function,"[unnamed]",1,,0,
+Lambda Function,"[unnamed]",1,,0,
+Lambda Function,"[unnamed]",4,,0,
+Lambda Function,"[unnamed]",0,,0,
+Lambda Function,"[unnamed]",4,,0,
+Lambda Function,"[unnamed]",1,,0,
+Lambda Function,"[unnamed]",1,,0,
+Lambda Function,"[unnamed]",1,,0,
+Lambda Function,"[unnamed]",1,,0,
+Lambda Function,"[unnamed]",1,,0,
+Lambda Function,"[unnamed]",1,,0,
+Lambda Function,"[unnamed]",3,,0,
+Lambda Function,"[unnamed]",1,,0,
+Lambda Function,"[unnamed]",1,,0,
+Lambda Function,"[unnamed]",4,,0,
+Lambda Function,"[unnamed]",5,,0,
+Lambda Function,"[unnamed]",0,,0,
+Lambda Function,"[unnamed]",4,,0,
+Function,"ackermann",9,,1,
+Function,"add_modulus",12,,1,
+Function,"beadSort",16,,1,
+Function Template,"binsearch",12,,1,
+Function,"bit_count",6,,1,
+Function Template,"bogo_sort",8,,1,
+Function Template,"bogo_sort",6,,0,
+Function Template,"bubble_sort",12,,3,
+Function,"buildTree",20,,2,
+Class,"cSort",44,8,4,12
+Private Function,"cSort::c_sort",21,,4,
+Private Function,"cSort::display",5,,0,
+Public Function,"cSort::doIt",5,,0,
+Private Function,"cSort::doSwap",6,,1,
+Function,"change_digit",8,,1,
+Function,"chowla",7,,2,
+Function,"circlesort",29,,2,
+Function,"circlesortDriver",8,,2,
+Function,"cmp",4,,0,
+Class,"cocktailSort",36,7,3,8
+Private Function,"cocktailSort::sSwap",5,,0,
+Public Function,"cocktailSort::sort",26,,3,
+Function Template,"cocktail_shaker_sort",24,,3,
+Function Template,"combsort",1,,0,
+Struct,"compare",11,3,1,3
+Public Function,"compare::operator()",9,,1,
+Function,"compareAndReportStringsLength",27,,3,
+Function,"composite_test",8,,2,
+Function Template,"concatArrays",19,,2,
+Function,"connect_ftp",14,,0,
+Function,"contains",3,,0,
+Function,"countDivisors",8,,2,
+Function,"count_all",20,,3,
+Function,"count_digits",6,,1,
+Function,"count_primes",8,,2,
+Function Template,"counting_sort",18,,2,
+Function,"create_small_primes",7,,2,
+Function Template,"decompose",1,,0,
+Function Template,"demo_compare",10,,0,
+Function Template,"demonstrate",12,,0,
+Function,"denseRank",19,,3,
+Class,"diffs",37,4,2,8
+Public Function,"diffs::diffs",1,,0,
+Public Function,"diffs::diffs",1,,0,
+Public Function,"diffs::print",8,,0,
+Public Const Function,"diffs::size",3,,0,
+Public Function,"diffs::test_group",14,,2,
+Function,"digit_sum",6,,1,
+Function,"digit_sum",6,,1,
+Function,"digit_sum",6,,1,
+Function,"digital_root",3,,0,
+Function,"digits",1,,0,
+Function,"digits",10,,1,
+Function,"dir_listing",18,,1,
+Function Template,"displayTest",4,,0,
+Function,"distribute",6,,1,
+Function,"divisor_count",14,,2,
+Function,"divisor_sum",7,,2,
+Class,"dragonC",57,11,4,16
+Public Function,"dragonC::dragonC",1,,0,
+Public Function,"dragonC::draw",1,,0,
+Private Function,"dragonC::draw",35,,4,
+Private Function,"dragonC::generate",12,,2,
+Struct,"entry",4,0,0,0
+Function,"eval",38,,3,
+Function,"expandPoly",32,,2,
+Function,"exponentiation_modulus",13,,2,
+Function,"f",4,,0,
+Function,"factorial",4,,0,
+Function,"factorial_mod",6,,1,
+Function,"fermat",6,,1,
+Function,"fib",11,,1,
+Function,"file_exists",12,,2,
+Function,"findCombo",32,,4,
+Function,"findPeriod",14,,1,
+Function,"findProperDivisors",8,,2,
+Function,"find_mersenne_factor",8,,2,
+Function,"fpe_handler",5,,0,
+Class,"fractalTree",34,3,1,6
+Public Function,"fractalTree::DegToRadian",1,,0,
+Public Function,"fractalTree::create",11,,0,
+Private Function,"fractalTree::drawRL",14,,1,
+Public Function,"fractalTree::fractalTree",1,,0,
+Function,"fractionalRank",28,,3,
+Class,"fractran",47,5,3,8
+Private Function,"fractran::exec",23,,3,
+Public Function,"fractran::run",18,,2,
+Function,"g",5,,0,
+Function,"gFizzBuzz",14,,3,
+Function,"gcd",8,,1,
+Function,"generate_primes",18,,3,
+Function,"generate_primes",18,,3,
+Function,"getPrimeFactors",19,,4,
+Function,"get_ancestors",9,,1,
+Function,"get_ftp",16,,1,
+Function,"get_prime_factors",17,,2,
+Function Template,"gnome_sort",17,,3,
+Function,"hammings",7,,0,
+Function,"heap_sort",9,,1,
+Struct,"icompare_char",5,1,0,1
+Public Function,"icompare_char::operator()",3,,0,
+Class Template,"infix_ostream_iterator",40,1,0,4
+Private Class,"infix_ostream_iterator::Proxy",15,1,0,2
+Public Function,"infix_ostream_iterator::Proxy::Proxy",1,,0,
+Public Function,"infix_ostream_iterator::Proxy::operator=",1,,0,
+Public Function,"infix_ostream_iterator::infix_ostream_iterator",1,,0,
+Public Function,"infix_ostream_iterator::operator*",1,,0,
+Public Function,"infix_ostream_iterator::operator++",1,,0,
+Public Function,"infix_ostream_iterator::operator++",1,,0,
+Function,"init",14,,3,
+Function,"init",7,,1,
+Function Template,"insertion_sort",6,,1,
+Function Template,"insertion_sort",3,,0,
+Function Template,"interpolate",1,,0,
+Function,"isEmirp",4,,0,
+Function Template,"isEven",4,,0,
+Function,"isEven",5,,0,
+Function,"isHumble",8,,1,
+Function,"isNumeric",8,,1,
+Function Template,"isOdd",4,,0,
+Function,"isPrime",17,,1,
+Function,"isPrime",11,,2,
+Function,"isPrime",8,,2,
+Function,"isPrime",13,,2,
+Function,"isPrime",20,,2,
+Function,"isPrime",7,,2,
+Function,"isPrime",11,,2,
+Function,"isSemiPrime",11,,2,
+Function,"isStrange",11,,2,
+Function,"is_chernick",26,,2,
+Function,"is_circular_prime",12,,2,
+Function,"is_composite",11,,2,
+Function,"is_left_truncatable",8,,2,
+Function,"is_magnanimous",7,,2,
+Static Function,"is_mersenne_prime",13,,1,
+Function,"is_palindrome",4,,0,
+Function,"is_prime",16,,2,
+Function,"is_prime",3,,0,
+Function,"is_prime",16,,2,
+Function,"is_prime",21,,3,
+Function,"is_prime",10,,2,
+Function,"is_prime",16,,2,
+Function,"is_prime",16,,2,
+Function,"is_prime",40,,2,
+Function,"is_prime",16,,2,
+Function,"is_prime",16,,2,
+Function,"is_prime",11,,2,
+Function,"is_prime",3,,0,
+Function,"is_prime",3,,0,
+Function,"is_prime",16,,2,
+Function,"is_prime",11,,2,
+Function,"is_prime",16,,2,
+Function,"is_prime",21,,3,
+Function,"is_probably_prime",3,,0,
+Function,"is_probably_prime",3,,0,
+Function,"is_probably_prime",3,,0,
+Function,"is_right_truncatable",7,,2,
+Function,"is_strange",13,,2,
+Class,"jortSort",31,3,2,7
+Private Function Template,"jortSort::check",5,,2,
+Private Function Template,"jortSort::copy_array",5,,0,
+Public Function Template,"jortSort::jort_sort",10,,1,
+Private Function Template,"jortSort::sort_array",3,,0,
+Function,"k_prime",6,,2,
+Function,"largest_left_truncatable_prime",27,,1,
+Function,"lcm",4,,0,
+Function,"leftAssociate",13,,1,
+Class,"legendre_prime_counter",26,4,1,7
+Explicit Public Function,"legendre_prime_counter::legendre_prime_counter",2,,0,
+Private Function,"legendre_prime_counter::phi",10,,1,
+Public Function,"legendre_prime_counter::prime_count",6,,1,
+Function,"lex",19,,3,
+Function,"lexicographical_sort",8,,0,
+Function,"lexicographically_sorted_vector",6,,0,
+Struct,"local",4,1,0,1
+Function,"login_ftp",5,,0,
+Function,"lsd_radix_sort",7,,1,
+Class,"ludic",54,6,3,16
+Public Function,"ludic::count",6,,1,
+Public Function,"ludic::findTriplets",11,,2,
+Private Function,"ludic::inList",6,,2,
+Public Function,"ludic::ludicList",20,,3,
+Public Function,"ludic::show",5,,1,
+Function,"main",14,,2,
+Function,"main",14,,0,
+Function,"main",7,,2,
+Function,"main",15,,3,
+Function,"main",6,,0,
+Function,"main",10,,0,
+Function,"main",9,,2,
+Function,"main",5,,0,
+Function,"main",20,,2,
+Function,"main",34,,4,
+Function,"main",11,,2,
+Function,"main",6,,0,
+Function,"main",18,,3,
+Function,"main",11,,1,
+Function,"main",34,,3,
+Function,"main",7,,0,
+Function,"main",7,,2,
+Function,"main",6,,0,
+Function,"main",5,,0,
+Function,"main",39,,3,
+Function,"main",31,,2,
+Function,"main",8,,0,
+Function,"main",6,,0,
+Function,"main",1,,0,
+Function,"main",5,,0,
+Function,"main",7,,0,
+Function,"main",17,,1,
+Function,"main",11,,1,
+Function,"main",8,,0,
+Function,"main",8,,0,
+Function,"main",48,,2,
+Function,"main",50,,6,
+Function,"main",21,,3,
+Function,"main",28,,2,
+Function,"main",39,,3,
+Function,"main",4,,0,
+Function,"main",10,,1,
+Function,"main",11,,1,
+Function,"main",13,,1,
+Function,"main",12,,1,
+Function,"main",21,,3,
+Function,"main",4,,0,
+Function,"main",5,,0,
+Function,"main",26,,3,
+Function,"main",6,,0,
+Function,"main",18,,2,
+Function,"main",29,,2,
+Function,"main",18,,2,
+Function,"main",4,,0,
+Function,"main",3,,0,
+Function,"main",6,,0,
+Function,"main",9,,0,
+Function,"main",17,,1,
+Function,"main",3,,0,
+Function,"main",35,,3,
+Function,"main",13,,0,
+Function,"main",8,,0,
+Function,"main",14,,1,
+Function,"main",19,,1,
+Function,"main",5,,0,
+Function,"main",12,,0,
+Function,"main",6,,0,
+Function,"main",7,,0,
+Function,"main",5,,1,
+Function,"main",23,,2,
+Function,"main",24,,3,
+Function,"main",41,,2,
+Function,"main",12,,2,
+Function,"main",10,,2,
+Function,"main",16,,2,
+Function,"main",34,,2,
+Function,"main",14,,0,
+Function,"main",5,,0,
+Function,"main",34,,4,
+Function,"main",10,,2,
+Function,"main",30,,3,
+Function,"main",6,,1,
+Function,"main",12,,1,
+Function,"main",8,,3,
+Function,"main",5,,0,
+Function,"main",16,,1,
+Function,"main",18,,2,
+Function,"main",12,,2,
+Function,"main",6,,1,
+Function,"main",10,,2,
+Function,"main",18,,1,
+Function,"main",19,,0,
+Function,"main",8,,0,
+Function,"main",54,,3,
+Function,"main",8,,2,
+Function,"main",19,,1,
+Function,"main",30,,3,
+Function,"main",17,,1,
+Function,"main",14,,1,
+Function,"main",19,,3,
+Function,"main",21,,2,
+Function,"main",27,,2,
+Function,"main",21,,2,
+Function,"main",41,,4,
+Function,"main",25,,2,
+Function,"main",10,,2,
+Function,"main",35,,3,
+Function,"main",22,,1,
+Function,"main",13,,0,
+Function,"main",14,,2,
+Function,"main",53,,2,
+Function,"main",18,,0,
+Function,"main",9,,1,
+Function,"main",17,,3,
+Function,"main",10,,0,
+Function,"main",7,,2,
+Function,"main",17,,2,
+Function,"main",30,,0,
+Function,"main",18,,3,
+Function,"main",57,,4,
+Function,"main",13,,2,
+Function,"main",17,,0,
+Function,"main",11,,0,
+Function,"main",22,,2,
+Function,"main",12,,0,
+Function,"main",28,,3,
+Function,"main",16,,1,
+Function,"main",5,,0,
+Function,"main",9,,0,
+Function,"main",7,,1,
+Function,"main",14,,0,
+Function,"main",5,,0,
+Function,"main",7,,1,
+Function,"main",6,,0,
+Function,"main",6,,0,
+Function,"main",10,,0,
+Function,"main",6,,0,
+Function,"main",9,,1,
+Function,"main",6,,0,
+Function,"main",8,,1,
+Function,"main",6,,0,
+Function,"main",14,,1,
+Function,"main",7,,0,
+Function,"main",7,,0,
+Function,"main",6,,0,
+Function,"main",22,,2,
+Function,"main",9,,1,
+Function,"main",3,,0,
+Function,"main",19,,2,
+Function,"main",13,,1,
+Function,"main",25,,2,
+Function,"main",4,,0,
+Function,"main",6,,0,
+Function,"main",5,,0,
+Function,"main",7,,0,
+Function,"main",13,,0,
+Function,"main",8,,0,
+Function,"main",21,,2,
+Function,"main",21,,2,
+Function,"main",13,,0,
+Function,"main",9,,0,
+Function,"main",4,,0,
+Function,"main",13,,3,
+Function,"main",8,,1,
+Function,"main",10,,1,
+Function,"main",24,,0,
+Function,"main",15,,1,
+Function,"main",21,,2,
+Function,"main",17,,2,
+Function,"main",13,,0,
+Function,"main",28,,4,
+Function,"main",11,,1,
+Function,"main",10,,0,
+Function,"main",9,,0,
+Function,"main",19,,1,
+Function,"main",21,,1,
+Function,"main",6,,1,
+Function,"main",9,,1,
+Function,"main",7,,0,
+Function Template,"max_value",4,,0,
+Function Template,"max_value",5,,0,
+Function Template,"median",1,,0,
+Function,"merge",8,,1,
+Function Template,"mergesort",1,,0,
+Function Template,"mergesort",1,,0,
+Function,"mertens_numbers",8,,2,
+Function,"mobiusFunction",29,,3,
+Function,"mod",3,,0,
+Function,"mod_pow",9,,2,
+Function,"modifiedRank",19,,3,
+Function,"modpow",12,,2,
+Class,"motzkin_generator",15,2,0,2
+Public Function,"motzkin_generator::next",7,,0,
+Function,"move",9,,1,
+Function,"msd_radix_sort",10,,1,
+Function,"multiply",4,,0,
+Function,"multiply_modulus",16,,2,
+Class,"myBitmap",76,2,1,10
+Class,"myBitmap",93,2,1,15
+Public Function,"myBitmap::clear",4,,0,
+Public Function,"myBitmap::create",20,,1,
+Public Function,"myBitmap::create",19,,1,
+Private Function,"myBitmap::createPen",6,,1,
+Public Function,"myBitmap::getDC",1,,0,
+Public Const Function,"myBitmap::getDC",1,,0,
+Public Function,"myBitmap::getHeight",1,,0,
+Public Const Function,"myBitmap::getHeight",1,,0,
+Public Function,"myBitmap::getWidth",1,,0,
+Public Const Function,"myBitmap::getWidth",1,,0,
+Public Function,"myBitmap::myBitmap",1,,0,
+Public Function,"myBitmap::myBitmap",1,,0,
+Public Function,"myBitmap::saveBitmap",31,,0,
+Public Function,"myBitmap::saveBitmap",29,,0,
+Public Function,"myBitmap::setBrushColor",6,,1,
+Public Function,"myBitmap::setPenColor",6,,1,
+Public Function,"myBitmap::setPenColor",4,,0,
+Public Function,"myBitmap::setPenWidth",4,,0,
+Public Function,"myBitmap::~myBitmap",6,,0,
+Public Function,"myBitmap::~myBitmap",5,,0,
+Function,"myCompare",21,,1,
+Function,"nSmooth",32,,3,
+Class Template,"n_smooth_generator",17,1,0,3
+Explicit Public Function,"n_smooth_generator::n_smooth_generator",2,,0,
+Public Function,"n_smooth_generator::next",2,,0,
+Public Const Function,"n_smooth_generator::size",1,,0,
+Function,"next_prime_digit_number",13,,1,
+Function,"next_prime_digit_number",13,,1,
+Function,"next_repunit",6,,1,
+Struct,"node",6,1,0,1
+Public Function,"node::node",1,,0,
+Function Template,"non_strict",1,,0,
+Struct Template,"non_strict_op",14,1,0,2
+Public Function,"non_strict_op::non_strict_op",1,,0,
+Public Const Function,"non_strict_op::operator()",2,,0,
+Function Template,"operator<<",13,,1,
+Function,"ordinalRank",18,,3,
+Class,"pair",9,1,0,4
+Public Const Function,"pair::i",1,,0,
+Public Const Function,"pair::operator<",1,,0,
+Public Function,"pair::pair",1,,0,
+Public Const Function,"pair::s",1,,0,
+Function Template,"pancake_sort",17,,2,
+Function Template,"pancake_sort",4,,0,
+Function,"partition",21,,1,
+Function,"partitions",23,,3,
+Function,"pascalTriangle",14,,2,
+Function Template,"patience_sort",28,,2,
+Function Template,"permutation_sort",1,,0,
+Struct Template,"pile_greater",5,1,0,1
+Public Const Function,"pile_greater::operator()",3,,0,
+Struct Template,"pile_less",5,1,0,1
+Public Const Function,"pile_less::operator()",3,,0,
+Function,"pollard_rho",22,,3,
+Function,"powerset",42,,3,
+Public Static Function,"powerset::local::dereference",1,,0,
+Function,"precedence",13,,1,
+Function,"primality_pretest",8,,1,
+Class Template,"prime_generator",62,7,2,10
+Private Struct,"prime_generator::cmp",5,1,0,1
+Public Const Function,"prime_generator::cmp::operator()",3,,0,
+Public Const Function,"prime_generator::count",3,,0,
+Public Function,"prime_generator::next_prime",28,,2,
+Private Struct,"prime_generator::queue_item",7,1,0,1
+Public Function,"prime_generator::queue_item::queue_item",2,,0,
+Private Static Function,"prime_generator::wheel_next",7,,1,
+Class,"prime_info",25,2,1,4
+Class,"prime_info",25,2,1,4
+Public Function,"prime_info::add_prime",7,,1,
+Public Function,"prime_info::add_prime",7,,1,
+Explicit Public Function,"prime_info::prime_info",1,,0,
+Explicit Public Function,"prime_info::prime_info",1,,0,
+Public Const Function,"prime_info::print",7,,0,
+Public Const Function,"prime_info::print",7,,0,
+Function,"prime_numbers",18,,3,
+Function,"prime_sieve",20,,3,
+Function,"prime_sieve",20,,3,
+Function,"primes",6,,2,
+Function,"primorial",5,,0,
+Function Template,"print",1,,0,
+Function Template,"print",8,,1,
+Function,"print_carmichael_numbers",22,,3,
+Function,"print_diffs",8,,1,
+Function,"print_logic",7,,0,
+Function,"print_table",6,,1,
+Function,"print_table_header",8,,1,
+Function,"print_table_row",10,,1,
+Function,"print_twin_prime_count",4,,0,
+Function,"print_vector",9,,1,
+Function,"print_vector",8,,2,
+Function,"print_vector",11,,1,
+Function Template,"print_vector",10,,2,
+Function,"print_vector",9,,2,
+Function,"problem_occured",4,,0,
+Function,"probprime",4,,0,
+Function,"properDivisors",7,,2,
+Function Template,"quicksort",1,,0,
+Function Template,"quicksort",1,,0,
+Class,"radix_test",13,2,1,3
+Public Const Function,"radix_test::operator()",7,,1,
+Public Function,"radix_test::radix_test",1,,0,
+Function,"readFile",20,,2,
+Function Template,"read_lines",8,,1,
+Function Template,"read_words",8,,1,
+Function,"recurse",5,,0,
+Function,"repunit",5,,0,
+Function,"reverseNumber",7,,0,
+Function Template,"selection_sort",6,,1,
+Struct,"session",10,0,0,0
+Class,"shell",34,6,3,11
+Public Function,"shell::shell",2,,0,
+Public Function,"shell::sort",8,,2,
+Private Function,"shell::sortIt",17,,3,
+Private Function,"shell::swap",1,,0,
+Function,"shift_down",15,,2,
+Function,"shuntingYard",37,,4,
+Function,"sieve",9,,3,
+Function,"sieve",21,,2,
+Function,"sieve_of_sundaram",21,,2,
+Function,"smult",10,,0,
+Function Template,"sort3",5,,0,
+Function Template,"sortDisjoint",11,,1,
+Function,"split",9,,2,
+Function,"splitOnChar",9,,1,
+Class Template,"stack",20,2,1,7
+Public Function,"stack::empty",1,,0,
+Public Function,"stack::pop",5,,1,
+Public Function,"stack::push",1,,0,
+Public Function,"stack::stack",1,,0,
+Public Function,"stack::top",6,,1,
+Function,"standardRank",20,,3,
+Class,"stooge",13,3,1,3
+Public Function,"stooge::sort",9,,1,
+Function Template,"strandSort",1,,0,
+Function,"strange_unique_prime_triplets",30,,5,
+Function,"table_column_width",8,,1,
+Function,"test",13,,3,
+Function,"test_repunit",6,,1,
+Function,"toString",5,,0,
+Function,"to_binary",5,,0,
+Function,"to_heap",7,,1,
+Function,"to_hex",5,,0,
+Function,"to_upper_case",6,,1,
+Class Template,"topological_sorter",55,1,0,6
+Public Function Template,"topological_sorter::add_dependencies",1,,0,
+Public Function,"topological_sorter::add_dependency",1,,0,
+Public Function,"topological_sorter::add_goal",1,,0,
+Public Function,"topological_sorter::clear",1,,0,
+Public Function Template,"topological_sorter::destructive_sort",1,,0,
+Protected Struct,"topological_sorter::relations",4,0,0,0
+Public Function Template,"topological_sorter::sort",1,,0,
+Class,"totient_calculator",22,5,2,7
+Public Const Function,"totient_calculator::is_prime",3,,0,
+Public Const Function,"totient_calculator::totient",4,,0,
+Explicit Public Function,"totient_calculator::totient_calculator",10,,2,
+Function,"twos_complement",3,,0,
+Function,"u",6,,1,
+Class,"ulamSpiral",78,6,3,24
+Private Function,"ulamSpiral::arrange",23,,3,
+Public Function,"ulamSpiral::create",10,,1,
+Public Function,"ulamSpiral::display",4,,1,
+Private Function,"ulamSpiral::displayNumbers",12,,2,
+Private Function,"ulamSpiral::displaySymbol",12,,2,
+Private Function,"ulamSpiral::isPrime",11,,2,
+Function,"unprimeable",13,,3,
+Class,"vector2",19,1,0,4
+Public Function,"vector2::rotate",11,,0,
+Public Function,"vector2::set",1,,0,
+Public Function,"vector2::vector2",1,,0,
+Public Function,"vector2::vector2",1,,0,
+Function,"wieferich_primes",8,,2,
+Class Template,"yellowstone_generator",29,4,2,4
+Public Function,"yellowstone_generator::next",20,,2,

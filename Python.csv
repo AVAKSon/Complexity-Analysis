@@ -1,0 +1,519 @@
+Kind,Name,CountLineCode,MaxCyclomatic,MaxNesting,SumCyclomatic
+Module File,"A+B.py",7,2,1,2
+Function,"AKS test for primes.aks",7,,2,
+Function,"AKS test for primes.expand_x_1",5,,1,
+Module File,"AKS test for primes.py",12,4,2,6
+Module File,"Abundant, deficient and perfect number classifications.py",17,7,3,7
+Function,"Ackermann function.ack1",3,,0,
+Module File,"Ackermann function.py",3,3,0,3
+Function,"Additive primes.digit_sum",6,,1,
+Function,"Additive primes.is_prime",11,,2,
+Function,"Additive primes.main",7,,2,
+Module File,"Additive primes.py",26,5,2,12
+Function,"Almost prime.almostprime",7,,1,
+Module File,"Almost prime.py",16,4,2,6
+Function,"Amicable pairs.amicable",5,,2,
+Module File,"Amicable pairs.py",10,3,2,6
+Module File,"Anonymous recursion.py",3,1,0,1
+Function,"Anti-primes.antiprimes",14,,2,
+Function,"Anti-primes.factors",14,,1,
+Function,"Anti-primes.factors.prime_powers",9,,2,
+Module File,"Anti-primes.py",31,6,2,16
+Class,"Arithmetic evaluation.AstNode",7,1,0,2
+Function,"Arithmetic evaluation.AstNode.__init__",4,,0,
+Function,"Arithmetic evaluation.AstNode.eval",2,,0,
+Class,"Arithmetic evaluation.LeafNode",5,1,0,2
+Function,"Arithmetic evaluation.LeafNode.__init__",2,,0,
+Function,"Arithmetic evaluation.LeafNode.eval",2,,0,
+Function,"Arithmetic evaluation.Lex",28,,3,
+Class,"Arithmetic evaluation.Yaccer",44,3,2,11
+Function,"Arithmetic evaluation.Yaccer.__init__",4,,0,
+Function,"Arithmetic evaluation.Yaccer.end",3,,0,
+Function,"Arithmetic evaluation.Yaccer.o2",14,,0,
+Function,"Arithmetic evaluation.Yaccer.o2.openParen",2,,0,
+Function,"Arithmetic evaluation.Yaccer.pc2",7,,1,
+Function,"Arithmetic evaluation.Yaccer.redeuce",8,,2,
+Function,"Arithmetic evaluation.Yaccer.syntaxErr",2,,0,
+Function,"Arithmetic evaluation.Yaccer.v1",3,,0,
+Module File,"Arithmetic evaluation.py",88,12,3,28
+Module File,"Arithmetic_Integer.py",9,1,0,1
+Module File,"Array concatenation.py",12,1,0,1
+Module File,"Array length.py",1,1,0,1
+Module File,"Arrays.py",5,1,0,1
+Function,"Binary search.binary_search",9,,2,
+Module File,"Binary search.py",9,4,2,4
+Function,"Call a function.no_args",2,,0,
+Module File,"Call a function.py",3,1,0,2
+Class,"Carmichael 3 strong pseudoprimes.Isprime",26,7,3,9
+Function,"Carmichael 3 strong pseudoprimes.Isprime.__init__",3,,1,
+Function,"Carmichael 3 strong pseudoprimes.Isprime.check",18,,3,
+Function,"Carmichael 3 strong pseudoprimes.carmichael",14,,7,
+Module File,"Carmichael 3 strong pseudoprimes.py",43,8,7,18
+Module File,"Character codes.py",2,1,0,1
+Module File,"Check that file exists.py",5,1,0,1
+Function,"Chernick's Carmichael numbers.is_chernick",17,,2,
+Function,"Chernick's Carmichael numbers.primality_pretest",4,,1,
+Module File,"Chernick's Carmichael numbers.py",36,9,3,17
+Function,"Chowla numbers.chowla",2,,0,
+Function,"Chowla numbers.is_prime",2,,0,
+Function,"Chowla numbers.perfect_between",8,,2,
+Function,"Chowla numbers.primes_to",2,,0,
+Module File,"Chowla numbers.py",25,5,2,12
+Function,"Circular primes.isCircular",2,,0,
+Function,"Circular primes.isPrime",13,,2,
+Function,"Circular primes.is_Prime",26,,2,
+Function,"Circular primes.is_Prime.trial_composite",7,,2,
+Function,"Circular primes.main",14,,3,
+Module File,"Circular primes.py",71,7,3,27
+Function,"Circular primes.repmain",8,,2,
+Function,"Circular primes.rotations",3,,0,
+Module File,"Compare length of two strings.py",11,3,1,3
+Module File,"Consecutive primes with ascending or descending differences.py",33,7,3,7
+Module File,"Copy a string.py",7,1,0,1
+Function,"Count in factors.pfactor",16,,4,
+Module File,"Count in factors.py",31,7,4,13
+Function,"Create a file.create",4,,1,
+Module File,"Create a file.py",14,2,1,3
+Module File,"Cuban primes.py",54,16,6,16
+Module File,"DNS query.py",3,2,1,2
+Function,"Detect division by zero.div_check",7,,1,
+Module File,"Detect division by zero.py",7,2,1,2
+Function,"Determine if a string is numeric.is_numeric",6,,1,
+Module File,"Determine if a string is numeric.py",7,2,1,3
+Function,"Dragon curve.dragon",10,,1,
+Module File,"Dragon curve.py",15,2,1,3
+Function,"Emirp primes.emirp",14,,3,
+Module File,"Emirp primes.py",25,5,3,9
+Module File,"Empty program.py",0,0,0,0
+Module File,"Environment variables.py",2,1,0,1
+Function,"Even or odd.is_even",2,,0,
+Module File,"Even or odd.py",4,1,0,2
+Function,"Extensible prime generator.p_range",4,,2,
+Module File,"Extensible prime generator.py",12,4,2,6
+Class,"Extra primes.Sieve",19,4,3,7
+Function,"Extra primes.Sieve.__init__",4,,0,
+Function,"Extra primes.Sieve._genprimes",11,,3,
+Function,"Extra primes.Sieve.isprime",3,,1,
+Function,"Extra primes.extra_primes",6,,2,
+Module File,"Extra primes.py",29,4,3,12
+Module File,"FTP.py",8,1,0,1
+Function,"Factorial.factorial",5,,1,
+Module File,"Factorial.py",5,2,1,2
+Function,"Factors of a Mersenne number.is_prime",2,,0,
+Function,"Factors of a Mersenne number.m_factor",11,,2,
+Module File,"Factors of a Mersenne number.py",23,5,3,10
+Function,"Factors of an integer.factors",14,,1,
+Function,"Factors of an integer.factors.prime_powers",9,,2,
+Module File,"Factors of an integer.py",15,6,2,8
+Function,"Fermat numbers.factors",12,,2,
+Module File,"Fermat numbers.py",24,4,2,7
+Function,"Fibonacci sequence.fibIter",8,,1,
+Module File,"Fibonacci sequence.py",8,3,1,3
+Module File,"File input_output.py",9,2,1,2
+Function,"Find largest left truncatable prime in a given base.is_probable_prime",27,,2,
+Function,"Find largest left truncatable prime in a given base.is_probable_prime.try_composite",7,,2,
+Function,"Find largest left truncatable prime in a given base.largest_left_truncatable_prime",12,,2,
+Module File,"Find largest left truncatable prime in a given base.py",42,8,2,18
+Module File,"Find limit of recursion.py",2,1,0,1
+Module File,"FizzBuzz.py",9,5,2,5
+Module File,"Formatted numeric output.py",10,1,0,1
+Function,"Fortunate numbers.fortunate_number",7,,2,
+Module File,"Fortunate numbers.py",19,3,2,5
+Function,"Fractal tree.drawTree",9,,1,
+Function,"Fractal tree.input",3,,1,
+Module File,"Fractal tree.py",21,2,1,6
+Function,"Fractran.fractran",13,,3,
+Module File,"Fractran.py",18,4,3,6
+Function,"Frobenius numbers.isPrime",19,,3,
+Module File,"Frobenius numbers.py",29,8,3,12
+Function,"Function definition.multiply",2,,0,
+Module File,"Function definition.py",2,1,0,1
+Function,"General FizzBuzz.genfizzbuzz",7,,1,
+Module File,"General FizzBuzz.py",9,3,1,5
+Function,"Greatest common divisor.gcd_bin",20,,2,
+Module File,"Greatest common divisor.py",20,8,2,8
+Module File,"Greatest element of a list.py",1,1,0,1
+Module File,"HTTP.py",9,1,0,1
+Module File,"Halt and catch fire.py",1,1,0,1
+Function,"Hamming numbers.hamming2",20,,3,
+Module File,"Hamming numbers.py",21,5,3,5
+Module File,"Hello world_Graphical.py",14,1,0,1
+Module File,"Hello world_Text.py",1,1,0,1
+Function,"Hello world_Web server.app",3,,0,
+Module File,"Hello world_Web server.py",6,1,0,2
+Function,"Humble numbers.chunksOf",5,,0,
+Function,"Humble numbers.humbles",7,,1,
+Function,"Humble numbers.main",15,,1,
+Module File,"Humble numbers.py",35,3,1,9
+Function,"Humble numbers.take",4,,0,
+Function,"Increment a numerical string.concatMap",4,,0,
+Function,"Increment a numerical string.main",8,,0,
+Module File,"Increment a numerical string.py",22,4,1,9
+Function,"Increment a numerical string.succString",7,,0,
+Function,"Increment a numerical string.succString.go",5,,1,
+Module File,"Input loop.py",3,2,1,2
+Module File,"Integer comparison.py",8,4,1,4
+Function,"JortSort.jortsort",2,,0,
+Module File,"JortSort.py",4,2,1,3
+Function,"Keyboard input_Obtain a Y or N response.getch",10,,1,
+Module File,"Keyboard input_Obtain a Y or N response.py",19,4,2,5
+Function,"Least common multiple.lcm",11,,3,
+Module File,"Least common multiple.py",20,4,3,7
+Function,"Legendre prime counting function.legpi",4,,1,
+Function,"Legendre prime counting function.phi",7,,2,
+Module File,"Legendre prime counting function.py",18,3,2,7
+Module File,"Literals_Integer.py",1,1,0,1
+Function,"Logical operations.logic",4,,0,
+Module File,"Logical operations.py",4,1,0,1
+Function,"Long primes.findPeriod",10,,2,
+Module File,"Long primes.py",44,8,3,18
+Function,"Long primes.sieve",14,,3,
+Function,"Longest common subsequence.lcs",8,,1,
+Module File,"Longest common subsequence.py",10,3,1,5
+Module File,"Loops_Break.py",7,3,2,3
+Module File,"Loops_Do-while.py",5,3,2,3
+Module File,"Loops_Downward for.py",2,2,1,2
+Module File,"Loops_For with a specified step.py",3,2,1,2
+Module File,"Loops_For.py",5,3,2,3
+Function,"Loops_Increment loop index within loop body.isPrime",11,,3,
+Module File,"Loops_Increment loop index within loop body.py",19,6,3,9
+Module File,"Loops_Infinite.py",2,2,1,2
+Module File,"Loops_N plus one half.py",7,3,2,3
+Module File,"Loops_While.py",4,2,1,2
+Function,"Loops_With multiple ranges._range",2,,0,
+Module File,"Loops_With multiple ranges.py",19,3,2,5
+Function,"Lucas-Lehmer test.is_mersenne_prime",9,,2,
+Function,"Lucas-Lehmer test.is_prime",7,,3,
+Module File,"Lucas-Lehmer test.py",31,5,3,12
+Function,"Ludic numbers.ludic",6,,1,
+Module File,"Ludic numbers.py",19,2,1,3
+Function,"Magnanimous numbers.is_magnanimous",8,,2,
+Module File,"Magnanimous numbers.py",26,10,4,14
+Function,"Man or boy test.a",6,,0,
+Function,"Man or boy test.a.b",3,,0,
+Module File,"Man or boy test.py",10,2,0,4
+Function,"Mersenne primes.MillerRabinPrimalityTest",24,,3,
+Module File,"Mersenne primes.py",40,10,3,17
+Function,"Mertens function.mertens",7,,2,
+Module File,"Mertens function.py",21,3,2,6
+Function,"Miller–Rabin primality test._try_composite",7,,2,
+Function,"Miller–Rabin primality test.is_Prime",26,,2,
+Function,"Miller–Rabin primality test.is_Prime.trial_composite",7,,2,
+Function,"Miller–Rabin primality test.is_prime",24,,2,
+Module File,"Miller–Rabin primality test.py",78,11,2,27
+Function,"Motzkin numbers.motzkin",5,,1,
+Function,"Motzkin numbers.print_motzkin_table",5,,1,
+Module File,"Motzkin numbers.py",12,2,1,5
+Function,"Multiplication tables.bind",6,,0,
+Function,"Multiplication tables.enumFromTo",2,,0,
+Function,"Multiplication tables.main",9,,1,
+Function,"Multiplication tables.mulTable",11,,0,
+Function,"Multiplication tables.mulTable.pad",2,,0,
+Function,"Multiplication tables.mulTable2",14,,0,
+Function,"Multiplication tables.mulTable2.pad",2,,0,
+Module File,"Multiplication tables.py",49,2,1,13
+Function,"Multiplication tables.unlines",2,,0,
+Function,"Multiplication tables.unwords",2,,0,
+Function,"Mutual recursion.F",1,,0,
+Function,"Mutual recursion.M",1,,0,
+Module File,"Mutual recursion.py",4,2,0,5
+Function,"Möbius function.isPrime",7,,2,
+Function,"Möbius function.mobius",15,,3,
+Module File,"Möbius function.py",26,6,3,13
+Function,"N-smooth numbers.init",8,,2,
+Function,"N-smooth numbers.isPrime",11,,2,
+Function,"N-smooth numbers.main",18,,2,
+Function,"N-smooth numbers.nsmooth",28,,3,
+Module File,"N-smooth numbers.py",67,11,3,28
+Function,"Nice primes.find_nice_primes",8,,3,
+Function,"Nice primes.is_prime",7,,2,
+Module File,"Nice primes.py",21,4,3,11
+Function,"Nice primes.sum_of_digits",4,,1,
+Function,"Nth root.fTable",11,,0,
+Function,"Nth root.fTable.go",7,,0,
+Function,"Nth root.main",14,,0,
+Function,"Nth root.main.f",3,,0,
+Function,"Nth root.main.xShow",5,,0,
+Function,"Nth root.nthRoot",21,,0,
+Function,"Nth root.nthRoot.go",19,,0,
+Function,"Nth root.nthRoot.go.same",2,,0,
+Function,"Nth root.nthRoot.go.step",11,,0,
+Function,"Nth root.pred",2,,0,
+Module File,"Nth root.py",65,2,1,18
+Function,"Nth root.reciprocal",2,,0,
+Function,"Nth root.rootName",4,,0,
+Function,"Nth root.until",7,,0,
+Function,"Nth root.until.go",5,,1,
+Module File,"Null object.py",5,2,1,2
+Function,"Numbers with prime digits whose sum is 13.prime_digits_sum",9,,4,
+Module File,"Numbers with prime digits whose sum is 13.py",11,5,4,6
+Function,"Order by pair comparisons._insort_right",10,,2,
+Function,"Order by pair comparisons.order",5,,1,
+Module File,"Order by pair comparisons.py",19,3,2,7
+Module File,"Order two numerical lists.py",1,1,0,1
+Function,"Palindrome detection.is_palindrome",2,,0,
+Module File,"Palindrome detection.py",2,1,0,1
+Function,"Partition an integer x into n primes.genP",4,,0,
+Function,"Partition an integer x into n primes.isP",6,,1,
+Module File,"Partition an integer x into n primes.py",26,5,4,9
+Function,"Partition function P.part",10,,2,
+Function,"Partition function P.plus_minus",14,,3,
+Function,"Partition function P.pos_gen",6,,1,
+Function,"Partition function P.posd",6,,1,
+Module File,"Partition function P.py",42,4,3,12
+Function,"Perfect numbers.perf1",6,,2,
+Module File,"Perfect numbers.py",6,3,2,3
+Function,"Pernicious numbers.enumFromTo",4,,0,
+Function,"Pernicious numbers.enumFromTo.go",2,,0,
+Function,"Pernicious numbers.isPernicious",2,,0,
+Function,"Pernicious numbers.isPrime",13,,1,
+Function,"Pernicious numbers.main",10,,0,
+Function,"Pernicious numbers.oeisA052294",2,,0,
+Function,"Pernicious numbers.popCount",4,,0,
+Function,"Pernicious numbers.popCount.go",2,,0,
+Module File,"Pernicious numbers.py",51,5,1,19
+Function,"Pernicious numbers.take",6,,0,
+Function,"Pernicious numbers.unfoldl",7,,0,
+Function,"Pernicious numbers.unfoldl.go",5,,1,
+Function,"Pierpont primes.is_Prime",26,,2,
+Function,"Pierpont primes.is_Prime.trial_composite",7,,2,
+Function,"Pierpont primes.main",15,,2,
+Function,"Pierpont primes.pierpont",19,,3,
+Module File,"Pierpont primes.py",62,7,3,22
+Function,"Power set.list_powerset",5,,1,
+Function,"Power set.list_powerset2",3,,0,
+Function,"Power set.powerset",2,,0,
+Module File,"Power set.py",10,2,1,4
+Function,"Primality by Wilson's theorem.is_wprime",6,,0,
+Module File,"Primality by Wilson's theorem.py",11,2,1,3
+Function,"Primality by trial division.prime3",11,,2,
+Module File,"Primality by trial division.py",11,6,2,6
+Function,"Prime conspiracy.generatePrimes",11,,2,
+Function,"Prime conspiracy.isPrime",16,,2,
+Module File,"Prime conspiracy.py",43,7,3,16
+Class,"Prime decomposition.IsPrimeCached",5,1,0,1
+Function,"Prime decomposition.IsPrimeCached.__missing__",4,,0,
+Function,"Prime decomposition.croft",17,,3,
+Function,"Prime decomposition.decompose",8,,2,
+Function,"Prime decomposition.is_prime",2,,0,
+Module File,"Prime decomposition.py",49,5,3,17
+Function,"Primes - allocate descendants to their ancestors.get_primes",11,,3,
+Module File,"Primes - allocate descendants to their ancestors.py",36,9,3,14
+Function,"Primes whose sum of digits is 25.chunksOf",6,,0,
+Function,"Primes whose sum of digits is 25.chunksOf.go",4,,0,
+Function,"Primes whose sum of digits is 25.main",13,,0,
+Function,"Primes whose sum of digits is 25.primes",12,,3,
+Function,"Primes whose sum of digits is 25.primesWithGivenDigitSum",10,,0,
+Module File,"Primes whose sum of digits is 25.py",44,4,3,11
+Function,"Primorial numbers.primorial",2,,0,
+Module File,"Primorial numbers.py",10,3,2,4
+Module File,"Program termination.py",3,2,1,2
+Module File,"Proper divisors.py",8,4,3,4
+Function,"Quickselect algorithm._select",12,,2,
+Function,"Quickselect algorithm.partition",10,,2,
+Module File,"Quickselect algorithm.py",36,4,2,12
+Function,"Quickselect algorithm.select",10,,1,
+Module File,"RPG attributes generator.py",19,5,3,5
+Module File,"Ramer-Douglas-Peucker line simplification.py",5,2,1,2
+Function,"Ranking methods.d_rank",8,,2,
+Function,"Ranking methods.f_rank",14,,4,
+Function,"Ranking methods.mc_rank",11,,3,
+Function,"Ranking methods.o_rank",2,,0,
+Module File,"Ranking methods.py",58,7,4,24
+Function,"Ranking methods.sc_rank",8,,2,
+Module File,"Read a file line by line.py",3,2,2,2
+Module File,"Real constants and functions.py",12,1,0,1
+Module File,"Remove duplicate elements.py",2,1,0,1
+Module File,"Rosetta Code_Rank languages by popularity.py",10,3,2,3
+Module File,"Safe primes and unsafe primes.py",24,7,4,7
+Module File,"Selectively replace multiple instances of a character within a string.py",10,3,1,4
+Function,"Selectively replace multiple instances of a character within a string.trstring",7,,1,
+Module File,"Semiprime.py",7,2,1,2
+Function,"Semiprime.semiprime",6,,1,
+Module File,"Send email.py",23,1,0,2
+Function,"Send email.sendemail",15,,0,
+Function,"Sequence of primes by trial division.prime",2,,0,
+Function,"Sequence of primes by trial division.primes_below",2,,0,
+Module File,"Sequence of primes by trial division.py",4,1,0,2
+Function,"Sequence of primorial primes.primorial_prime",7,,2,
+Module File,"Sequence of primorial primes.py",12,3,2,6
+Function,"Sexy primes.primes2",11,,2,
+Module File,"Sexy primes.py",49,10,3,15
+Function,"Sieve of Eratosthenes.eratosthenes2",6,,2,
+Module File,"Sieve of Eratosthenes.py",7,3,2,4
+Function,"Simple windowed application.main",15,,0,
+Function,"Simple windowed application.on_click",4,,0,
+Module File,"Simple windowed application.py",23,2,1,4
+Function,"Smarandache prime-digital sequence.digit_check",8,,3,
+Function,"Smarandache prime-digital sequence.divisors",8,,2,
+Function,"Smarandache prime-digital sequence.is_prime",2,,0,
+Module File,"Smarandache prime-digital sequence.py",37,6,4,18
+Function,"Smarandache prime-digital sequence.sequence",12,,4,
+Module File,"Sockets.py",4,1,1,1
+Module File,"Sort a list of object identifiers.py",10,2,1,2
+Module File,"Sort an array of composite structures.py",2,1,0,1
+Module File,"Sort an integer array.py",2,1,0,1
+Function,"Sort disjoint sublist.compose",2,,0,
+Function,"Sort disjoint sublist.disjointSort",9,,0,
+Function,"Sort disjoint sublist.disjointSort.go",7,,0,
+Function,"Sort disjoint sublist.main",12,,0,
+Module File,"Sort disjoint sublist.py",34,2,1,9
+Function,"Sort disjoint sublist.tabulated",9,,0,
+Function,"Sort disjoint sublist.tabulated.go",5,,0,
+Module File,"Sort numbers lexicographically.py",2,1,0,1
+Module File,"Sort three variables.py",5,2,1,2
+Function,"Sort using a custom comparator.mykey",2,,0,
+Module File,"Sort using a custom comparator.py",4,1,0,2
+Function,"Sorting Algorithms_Circle Sort.circle_sort",7,,1,
+Function,"Sorting Algorithms_Circle Sort.circle_sort_backend",14,,2,
+Module File,"Sorting Algorithms_Circle Sort.py",33,5,3,11
+Function,"Sorting algorithms_Bead sort.beadsort",2,,0,
+Module File,"Sorting algorithms_Bead sort.py",4,1,0,2
+Function,"Sorting algorithms_Bogosort.bogosort",4,,1,
+Function,"Sorting algorithms_Bogosort.in_order",9,,2,
+Module File,"Sorting algorithms_Bogosort.py",14,4,2,6
+Function,"Sorting algorithms_Bubble sort.bubble_sort",9,,3,
+Module File,"Sorting algorithms_Bubble sort.py",17,4,3,6
+Function,"Sorting algorithms_Cocktail sort with shifting bounds.cocktailshiftingbounds",16,,3,
+Module File,"Sorting algorithms_Cocktail sort with shifting bounds.py",25,6,3,7
+Function,"Sorting algorithms_Cocktail sort.cocktailSort",11,,4,
+Module File,"Sorting algorithms_Cocktail sort.py",14,6,4,7
+Module File,"Sorting algorithms_Comb sort.py",15,3,2,3
+Function,"Sorting algorithms_Counting sort.countingSort",8,,1,
+Module File,"Sorting algorithms_Counting sort.py",12,3,1,4
+Function,"Sorting algorithms_Cycle sort.cycleSort",23,,4,
+Module File,"Sorting algorithms_Cycle sort.py",32,10,4,13
+Function,"Sorting algorithms_Gnome sort.gnomesort",11,,3,
+Module File,"Sorting algorithms_Gnome sort.py",12,4,3,5
+Function,"Sorting algorithms_Heapsort.heapsort",7,,1,
+Module File,"Sorting algorithms_Heapsort.py",21,5,2,9
+Function,"Sorting algorithms_Heapsort.siftdown",12,,2,
+Function,"Sorting algorithms_Insertion sort.insertion_sort",8,,2,
+Module File,"Sorting algorithms_Insertion sort.py",8,3,2,3
+Function,"Sorting algorithms_Merge sort.merge_sort",9,,1,
+Module File,"Sorting algorithms_Merge sort.py",10,2,1,2
+Function,"Sorting algorithms_Pancake sort.pancakesort",15,,4,
+Module File,"Sorting algorithms_Pancake sort.py",25,9,4,12
+Class,"Sorting algorithms_Patience sort.Pile",3,1,0,2
+Function,"Sorting algorithms_Patience sort.Pile.__eq__",1,,0,
+Function,"Sorting algorithms_Patience sort.Pile.__lt__",1,,0,
+Function,"Sorting algorithms_Patience sort.patience_sort",10,,2,
+Module File,"Sorting algorithms_Patience sort.py",21,3,2,7
+Module File,"Sorting algorithms_Permutation sort.py",3,1,0,1
+Module File,"Sorting algorithms_Quicksort.py",19,5,2,6
+Function,"Sorting algorithms_Quicksort.quick_sort",17,,2,
+Function,"Sorting algorithms_Radix sort.flatten",5,,1,
+Module File,"Sorting algorithms_Radix sort.py",29,7,2,9
+Function,"Sorting algorithms_Radix sort.radix",24,,2,
+Module File,"Sorting algorithms_Selection sort.py",5,2,1,2
+Function,"Sorting algorithms_Selection sort.selection_sort",5,,1,
+Module File,"Sorting algorithms_Shell sort.py",9,5,3,5
+Function,"Sorting algorithms_Shell sort.shell",9,,3,
+Module File,"Sorting algorithms_Sleep sort.py",18,3,2,7
+Function,"Sorting algorithms_Sleep sort.sleepsort",10,,2,
+Function,"Sorting algorithms_Sleep sort.sleepsort.add1",2,,0,
+Module File,"Sorting algorithms_Stooge sort.py",13,4,1,5
+Function,"Sorting algorithms_Stooge sort.stoogesort",11,,1,
+Function,"Sorting algorithms_Strand sort.merge_list",10,,2,
+Module File,"Sorting algorithms_Strand sort.py",24,3,2,9
+Function,"Sorting algorithms_Strand sort.strand",8,,2,
+Function,"Sorting algorithms_Strand sort.strand_sort",5,,1,
+Module File,"Split a character string based on change of character.py",6,2,1,3
+Function,"Split a character string based on change of character.splitter",2,,0,
+Function,"Strange numbers.chunksOf",6,,0,
+Function,"Strange numbers.chunksOf.go",4,,0,
+Function,"Strange numbers.digits",2,,0,
+Function,"Strange numbers.isStrange",5,,0,
+Function,"Strange numbers.isStrange.test",2,,0,
+Function,"Strange numbers.main",14,,0,
+Module File,"Strange numbers.py",29,2,1,9
+Function,"Strange plus numbers.chunksOf",6,,0,
+Function,"Strange plus numbers.chunksOf.go",4,,0,
+Function,"Strange plus numbers.digits",2,,0,
+Function,"Strange plus numbers.isStrangePlus",5,,0,
+Function,"Strange plus numbers.isStrangePlus.test",2,,0,
+Function,"Strange plus numbers.main",14,,0,
+Module File,"Strange plus numbers.py",29,2,1,9
+Module File,"Strange unique prime triplets.py",13,5,4,7
+Function,"Strange unique prime triplets.strange_triplets",8,,4,
+Module File,"String append.py",5,1,0,1
+Function,"String comparison.compare",11,,1,
+Module File,"String comparison.py",16,9,1,10
+Module File,"String concatenation.py",4,1,0,1
+Module File,"String interpolation (included).py",3,1,0,1
+Module File,"String matching.py",7,1,0,1
+Module File,"String prepend.py",3,1,0,1
+Function,"Strong and weak primes.primesfrom2to",9,,2,
+Module File,"Strong and weak primes.py",32,3,2,4
+Module File,"Substring.py",9,1,0,1
+Function,"Successive prime differences.check_value_diffs",3,,0,
+Function,"Successive prime differences.nsuccprimes",5,,0,
+Module File,"Successive prime differences.py",28,5,4,8
+Function,"Successive prime differences.successive_primes",3,,0,
+Function,"Sudan function.F",7,,1,
+Module File,"Sudan function.py",8,3,1,4
+Module File,"System time.py",2,1,0,1
+Function,"Tau number.is_tau_number",5,,1,
+Module File,"Tau number.py",24,4,3,10
+Function,"Tau number.tau",11,,3,
+Module File,"The sieve of Sundaram.py",23,8,4,9
+Function,"The sieve of Sundaram.sieve_of_Sundaram",20,,4,
+Module File,"Tokenize a string.py",3,1,0,1
+Module File,"Topological sort.py",33,4,2,6
+Function,"Topological sort.toposort2",13,,2,
+Function,"Totient function.is_prime",2,,0,
+Module File,"Totient function.py",13,6,3,8
+Function,"Totient function.П†",2,,0,
+Function,"Towers of Hanoi.hanoi",5,,1,
+Module File,"Towers of Hanoi.py",6,2,1,3
+Function,"Tree traversal.bottom_up_order",2,,0,
+Function,"Tree traversal.dfs",9,,3,
+Function,"Tree traversal.inorder",2,,0,
+Function,"Tree traversal.levelorder",2,,0,
+Function,"Tree traversal.ls",10,,2,
+Function,"Tree traversal.postorder",2,,0,
+Function,"Tree traversal.preorder",2,,0,
+Function,"Tree traversal.printwithspace",2,,0,
+Module File,"Tree traversal.py",58,6,3,24
+Function,"Tree traversal.reverse_preorder",2,,0,
+Function,"Truncatable primes.primes",8,,2,
+Module File,"Truncatable primes.py",24,5,2,9
+Function,"Truncatable primes.truncatableprime",14,,2,
+Function,"Twin primes.count_twin_primes",16,,3,
+Module File,"Twin primes.py",28,4,3,6
+Function,"Twin primes.test",3,,0,
+Module File,"Two's complement.py",1,1,0,1
+Function,"Ulam spiral (for primes).cell",5,,0,
+Module File,"Ulam spiral (for primes).py",26,8,2,11
+Function,"Ulam spiral (for primes).show_spiral",17,,2,
+Function,"Unprimeable numbers.isprime",10,,1,
+Function,"Unprimeable numbers.isprime._isprime",6,,2,
+Function,"Unprimeable numbers.primes",6,,2,
+Module File,"Unprimeable numbers.py",42,5,3,18
+Function,"Unprimeable numbers.unprime",10,,3,
+Module File,"User input_Text.py",1,1,0,1
+Module File,"Walk a directory_Recursively.py",7,3,2,3
+Module File,"Web scraping.py",7,3,2,3
+Function,"Wieferich primes.is_prime",5,,2,
+Function,"Wieferich primes.is_wieferich",7,,1,
+Function,"Wieferich primes.pow_mod",12,,2,
+Module File,"Wieferich primes.py",30,4,3,13
+Function,"Wilson primes of order n.intListToString",2,,0,
+Module File,"Wilson primes of order n.py",25,6,3,11
+Function,"Wilson primes of order n.sieve",7,,3,
+Function,"Yellowstone sequence.Just",2,,0,
+Function,"Yellowstone sequence.Nothing",2,,0,
+Function,"Yellowstone sequence.cons",6,,0,
+Function,"Yellowstone sequence.iterate",7,,0,
+Function,"Yellowstone sequence.iterate.go",5,,1,
+Function,"Yellowstone sequence.main",9,,0,
+Module File,"Yellowstone sequence.py",72,4,1,21
+Function,"Yellowstone sequence.second",2,,0,
+Function,"Yellowstone sequence.showList",2,,0,
+Function,"Yellowstone sequence.take",6,,0,
+Function,"Yellowstone sequence.uncons",6,,1,
+Function,"Yellowstone sequence.yellowstone",24,,0,
+Function,"Yellowstone sequence.yellowstone.nextWindow",12,,0,
+Function,"Yellowstone sequence.yellowstone.nextWindow.match",7,,0,
+Function,"Yellowstone sequence.yellowstone.relativelyPrime",2,,0,
+Module File,"Zero to the zero power.py",10,3,2,3

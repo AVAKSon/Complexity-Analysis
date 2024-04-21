@@ -1,0 +1,836 @@
+Kind,Name,CountLineCode,MaxCyclomatic,MaxNesting,SumCyclomatic
+Package,"(Unnamed_Package)",5741,20,6,1422
+File,"A+B.java",1,0,0,0
+File,"AKS test for primes.java",38,4,2,11
+File,"Abundant, deficient and perfect number classifications.java",23,4,2,6
+File,"Ackermann function.java",132,8,0,16
+Public Interface,"Ackermann",126,1,0,2
+Public Enum Type,"Ackermann.$",115,1,0,9
+Private Static Method,"Ackermann.$.new_",108,,0,9
+Lambda Method,"Ackermann.$.new_.(lambda_expr_1)",107,,0,9
+Lambda Method,"Ackermann.$.new_.(lambda_expr_1).(lambda_expr_2)",1,,0,1
+Private Enum Type,"Ackermann.$.new_.(lambda_expr_1).Field",6,0,0,0
+Public Implicit Method,"Ackermann.$.new_.(lambda_expr_1).Field.valueOf",,,,0
+Public Implicit Method,"Ackermann.$.new_.(lambda_expr_1).Field.values",,,,0
+Private Interface,"Ackermann.$.new_.(lambda_expr_1).FunctionalAckermann",19,1,0,4
+Public Method,"Ackermann.$.new_.(lambda_expr_1).FunctionalAckermann.flag",4,,0,1
+Public Method,"Ackermann.$.new_.(lambda_expr_1).FunctionalAckermann.number1",4,,0,1
+Public Method,"Ackermann.$.new_.(lambda_expr_1).FunctionalAckermann.number2",4,,0,1
+Public Method,"Ackermann.$.new_.(lambda_expr_1).FunctionalAckermann.stack",4,,0,1
+Public Implicit Method,"Ackermann.$.valueOf",,,,0
+Public Implicit Method,"Ackermann.$.values",,,,0
+Public Abstract Method,"Ackermann.flag",1,,0,0
+Public Static Method,"Ackermann.main",3,,0,1
+Public Static Method,"Ackermann.new_",3,,0,1
+Public Abstract Method,"Ackermann.number1",1,,0,0
+Public Abstract Method,"Ackermann.number2",1,,0,0
+Public Abstract Method,"Ackermann.stack",1,,0,0
+File,"Additive primes.java",34,4,2,9
+Public Class,"AksTest",38,4,2,11
+Static Method,"AksTest.coeff",8,,2,3
+Static Method,"AksTest.isPrime",9,,1,2
+Public Static Method,"AksTest.main",11,,2,4
+Static Method,"AksTest.show",7,,1,2
+File,"Almost prime.java",24,4,3,8
+Public Class,"AlmostPrime",24,4,3,8
+Public Static Method,"AlmostPrime.kprime",10,,2,4
+Public Static Method,"AlmostPrime.main",12,,3,4
+File,"Amicable pairs.java",22,2,1,5
+Public Class,"AmicablePairs",18,1,1,5
+Public Static Method,"AmicablePairs.main",13,,1,3
+Lambda Method,"AmicablePairs.main.(lambda_expr_1)",5,,0,2
+Public Static Method,"AmicablePairs.properDivsSum",3,,0,2
+Lambda Method,"AmicablePairs.properDivsSum.(lambda_expr_1)",1,,0,1
+File,"Anonymous recursion.java",20,3,1,10
+File,"Anti-primes.java",23,4,2,7
+Public Class,"Antiprime",23,4,2,7
+Static Method,"Antiprime.countDivisors",8,,2,4
+Public Static Method,"Antiprime.main",13,,2,3
+File,"Arithmetic evaluation.java",140,13,4,31
+Public Class,"ArithmeticEvaluation",139,13,4,16
+Public Static Class,"ArithmeticEvaluation.BinaryExpression",20,1,0,3
+Public Constructor,"ArithmeticEvaluation.BinaryExpression.BinaryExpression",5,,0,1
+Public Method,"ArithmeticEvaluation.BinaryExpression.eval",6,,0,1
+Public Method,"ArithmeticEvaluation.BinaryExpression.toString",4,,0,1
+Public Enum Type,"ArithmeticEvaluation.BinaryOperator",33,5,2,9
+Constructor,"ArithmeticEvaluation.BinaryOperator.BinaryOperator",4,,0,1
+Public Method,"ArithmeticEvaluation.BinaryOperator.eval",13,,1,5
+Public Static Method,"ArithmeticEvaluation.BinaryOperator.forSymbol",8,,2,3
+Public Implicit Method,"ArithmeticEvaluation.BinaryOperator.valueOf",,,,0
+Public Implicit Method,"ArithmeticEvaluation.BinaryOperator.values",,,,0
+Public Interface,"ArithmeticEvaluation.Expression",3,0,0,0
+Abstract Method,"ArithmeticEvaluation.Expression.eval",1,,0,0
+Public Static Class,"ArithmeticEvaluation.Number",14,1,0,3
+Public Constructor,"ArithmeticEvaluation.Number.Number",3,,0,1
+Public Method,"ArithmeticEvaluation.Number.eval",4,,0,1
+Public Method,"ArithmeticEvaluation.Number.toString",4,,0,1
+Public Enum Type,"ArithmeticEvaluation.Parentheses",1,0,0,0
+Public Implicit Method,"ArithmeticEvaluation.Parentheses.valueOf",,,,0
+Public Implicit Method,"ArithmeticEvaluation.Parentheses.values",,,,0
+Private Static Method,"ArithmeticEvaluation.createNewOperand",5,,0,1
+Public Static Method,"ArithmeticEvaluation.main",13,,1,2
+Public Static Method,"ArithmeticEvaluation.parse",48,,4,13
+File,"Arithmetic_Integer.java",18,1,0,1
+File,"Array concatenation.java",1,0,0,0
+File,"Array length.java",1,0,0,0
+File,"Arrays.java",1,0,0,0
+Public Class,"BeadSort",68,9,2,17
+Method,"BeadSort.beadSort",35,,2,9
+Method,"BeadSort.display1D",6,,1,2
+Method,"BeadSort.display1D",6,,1,2
+Method,"BeadSort.display2D",6,,1,2
+Public Static Method,"BeadSort.main",12,,1,2
+File,"Binary search.java",27,4,2,6
+Public Class,"BinarySearchIterative",27,4,2,6
+Public Static Method,"BinarySearchIterative.binarySearch",15,,2,4
+Public Static Method,"BinarySearchIterative.main",10,,1,2
+Public Class,"BogoSort",44,3,2,11
+Method,"BogoSort.bogo",7,,1,2
+Method,"BogoSort.display1D",6,,1,2
+Method,"BogoSort.isSorted",7,,2,3
+Public Static Method,"BogoSort.main",10,,0,1
+Method,"BogoSort.shuffle",6,,1,2
+Method,"BogoSort.swap",6,,0,1
+Class,"Box",6,1,0,1
+Constructor,"Box.Box",3,,0,1
+File,"Call a function.java",1,0,0,0
+File,"Carmichael 3 strong pseudoprimes.java",36,8,4,14
+File,"Character codes.java",1,0,0,0
+File,"Check that file exists.java",18,2,0,4
+File,"Chernick's Carmichael numbers.java",173,20,4,52
+Public Class,"ChernicksCarmichaelNumbers",170,20,4,52
+Private Static Method,"ChernicksCarmichaelNumbers.U",9,,1,2
+Private Static Final Method,"ChernicksCarmichaelNumbers.aSrp",14,,2,4
+Private Static Method,"ChernicksCarmichaelNumbers.display",3,,0,1
+Public Static Final Method,"ChernicksCarmichaelNumbers.isPrime",57,,2,20
+Private Static Final Method,"ChernicksCarmichaelNumbers.isPrimeTrivial",7,,1,2
+Public Static Method,"ChernicksCarmichaelNumbers.main",19,,4,6
+Public Static Final Method,"ChernicksCarmichaelNumbers.modPow",21,,3,5
+Private Static Method,"ChernicksCarmichaelNumbers.multiply",7,,1,2
+Public Static Final Method,"ChernicksCarmichaelNumbers.multiply",15,,2,5
+Private Static Final Method,"ChernicksCarmichaelNumbers.sieve",12,,3,5
+File,"Chowla numbers.java",75,5,2,21
+Public Class,"Chowla",75,5,2,21
+Public Static Method,"Chowla.chowla",7,,2,5
+Protected Static Method,"Chowla.countMultiplicity",9,,1,2
+Protected Static Method,"Chowla.countPrimes",14,,2,4
+Protected Static Method,"Chowla.findChowlaNumbers",7,,1,2
+Protected Static Method,"Chowla.findPerfectNumbers",14,,2,3
+Private Static Method,"Chowla.increaseArr",5,,0,1
+Public Static Method,"Chowla.main",17,,1,4
+Public Class,"CircleSort",38,5,2,10
+Public Static Method,"CircleSort.circleSort",6,,2,3
+Private Static Method,"CircleSort.circleSortR",22,,2,5
+Public Static Method,"CircleSort.main",3,,0,1
+Private Static Method,"CircleSort.swap",5,,0,1
+File,"Circular primes.java",85,8,3,24
+Public Class,"CircularPrimes",83,8,3,24
+Private Static Method,"CircularPrimes.cycle",8,,1,2
+Private Static Method,"CircularPrimes.isCircularPrime",11,,2,4
+Private Static Method,"CircularPrimes.isPrime",16,,2,7
+Public Static Method,"CircularPrimes.main",34,,3,8
+Private Static Method,"CircularPrimes.repunit",5,,0,1
+Private Static Method,"CircularPrimes.testRepunit",7,,1,2
+Public Class,"Clicks",29,1,0,3
+Public Constructor,"Clicks.Clicks",21,,0,1
+Anonymous Class,"Clicks.Clicks.(Anon_1)",6,1,0,1
+Public Method,"Clicks.Clicks.(Anon_1).actionPerformed",4,,0,1
+Public Static Method,"Clicks.main",5,,0,2
+Lambda Method,"Clicks.main.(lambda_expr_1)",1,,0,1
+Public Class,"CocktailSort",41,7,3,9
+Public Static Method,"CocktailSort.cocktailSort",28,,3,7
+Public Static Method,"CocktailSort.main",6,,0,1
+Private Static Method,"CocktailSort.swap",5,,0,1
+File,"Compare length of two strings.java",4,0,0,0
+Public Class,"Compare",34,7,1,8
+Public Static Method,"Compare.compare",23,,1,7
+Public Static Method,"Compare.main",8,,0,1
+File,"Consecutive primes with ascending or descending differences.java",73,10,3,17
+Public Final Class,"ConsecutivePrimes",70,10,3,17
+Private Static Method,"ConsecutivePrimes.displayResult",9,,2,3
+Private Static Method,"ConsecutivePrimes.listPrimeNumbers",14,,2,4
+Public Static Method,"ConsecutivePrimes.main",45,,3,10
+File,"Copy a string.java",1,0,0,0
+File,"Count in factors.java",32,7,2,13
+Public Class,"CountingInFactors",32,7,2,13
+Private Static Method,"CountingInFactors.checkFactor",8,,2,3
+Private Static Method,"CountingInFactors.countInFactors",14,,2,7
+Public Static Method,"CountingInFactors.main",8,,1,3
+File,"Create a file.java",3,0,0,0
+File,"Cuban primes.java",51,5,3,16
+Public Class,"CubanPrimes",51,5,3,16
+Private Static Method,"CubanPrimes.cubanPrime",15,,3,5
+Private Static Method,"CubanPrimes.isPrime",12,,2,4
+Public Static Method,"CubanPrimes.main",8,,1,2
+Private Static Final Method,"CubanPrimes.preCompute",12,,3,5
+Public Class,"CycleSort",40,10,4,11
+Static Method,"CycleSort.cycleSort",31,,4,10
+Public Static Method,"CycleSort.main",7,,0,1
+File,"DNS query.java",3,0,0,0
+File,"Detect division by zero.java",1,0,0,0
+File,"Determine if a string is numeric.java",1,0,0,0
+Public Class,"Disjoint",22,3,1,4
+Public Static Method,"Disjoint.main",7,,0,1
+Public Static Generic Method,"Disjoint.sortDisjoint",13,,1,3
+Generic Parameter,"Disjoint.sortDisjoint.T",,0,0,0
+File,"Dragon curve.java",50,3,2,7
+Public Class,"DragonCurve",46,3,2,7
+Public Constructor,"DragonCurve.DragonCurve",8,,0,1
+Public Method,"DragonCurve.getSequence",12,,2,3
+Public Static Method,"DragonCurve.main",3,,0,1
+Public Method,"DragonCurve.paint",19,,1,2
+File,"Emirp primes.java",44,7,2,17
+Public Class,"Emirp",44,7,2,17
+Public Static Method,"Emirp.isEmirp",8,,1,4
+Public Static Method,"Emirp.isPrime",9,,2,6
+Public Static Method,"Emirp.main",25,,2,7
+File,"Empty program.java",4,1,0,1
+Public Class,"EmptyApplet",4,1,0,1
+Public Method,"EmptyApplet.init",2,,0,1
+File,"Environment variables.java",2,0,0,0
+File,"Even or odd.java",1,0,0,0
+Public Class,"Example",7,1,0,1
+Public Static Method,"Example.main",5,,0,1
+File,"Extensible prime generator.java",106,13,3,29
+File,"Extra primes.java",63,9,3,19
+Public Class,"ExtraPrimes",63,9,3,19
+Private Static Method,"ExtraPrimes.digitSum",7,,1,2
+Private Static Method,"ExtraPrimes.isPrime",27,,3,9
+Public Static Method,"ExtraPrimes.main",13,,2,3
+Private Static Method,"ExtraPrimes.nextPrimeDigitNumber",14,,1,5
+File,"FTP.java",2,0,0,0
+File,"Factorial.java",46,4,2,8
+File,"Factors of a Mersenne number.java",58,5,3,15
+File,"Factors of an integer.java",2,0,0,0
+File,"Fermat numbers.java",112,6,4,24
+Public Class,"FermatNumbers",106,6,4,24
+Private Static Method,"FermatNumbers.fermat",3,,0,1
+Private Static Method,"FermatNumbers.getFactors",29,,4,6
+Private Static Method,"FermatNumbers.getString",6,,1,5
+Lambda Method,"FermatNumbers.getString.(lambda_expr_1)",1,,0,1
+Lambda Method,"FermatNumbers.getString.(lambda_expr_2)",1,,0,2
+Public Static Method,"FermatNumbers.main",10,,1,3
+Private Static Method,"FermatNumbers.pollardRho",15,,1,3
+Private Static Method,"FermatNumbers.pollardRhoFast",29,,3,5
+Private Static Method,"FermatNumbers.pollardRhoG",3,,0,1
+File,"Fibonacci sequence.java",2,0,0,0
+File,"File input_output.java",17,4,2,4
+Public Class,"FileExistsTest",17,2,0,4
+Public Static Method,"FileExistsTest.isFileExists",4,,0,1
+Public Static Method,"FileExistsTest.main",6,,0,1
+Public Static Method,"FileExistsTest.test",5,,0,2
+Public Class,"FileIODemo",16,4,2,4
+Public Static Method,"FileIODemo.main",14,,2,4
+File,"Find largest left truncatable prime in a given base.java",64,7,2,15
+File,"Find limit of recursion.java",12,2,1,3
+Public Class,"FizzBuzz",14,5,2,5
+Public Class,"FizzBuzz",23,4,2,4
+Private Static Class,"FizzBuzz.Sound",11,2,0,3
+Public Constructor,"FizzBuzz.Sound.Sound",4,,0,1
+Public Method,"FizzBuzz.Sound.generate",3,,0,2
+File,"FizzBuzz.java",15,5,2,5
+Public Static Method,"FizzBuzz.main",13,,2,5
+Public Static Method,"FizzBuzz.main",10,,2,4
+File,"Formatted numeric output.java",7,1,0,1
+File,"Fortunate numbers.java",34,5,2,8
+Public Final Class,"FortunateNumbers",30,5,2,8
+Public Static Method,"FortunateNumbers.main",17,,2,5
+Private Static Method,"FortunateNumbers.primeSieve",10,,2,3
+File,"Fractal tree.java",27,2,1,5
+Public Class,"FractalTree",24,2,1,5
+Public Constructor,"FractalTree.FractalTree",6,,0,1
+Private Method,"FractalTree.drawTree",8,,1,2
+Public Static Method,"FractalTree.main",3,,0,1
+Public Method,"FractalTree.paint",5,,0,1
+Public Class,"Fractran",42,3,1,11
+Public Constructor,"Fractran.Fractran",5,,0,1
+Method,"Fractran.compile",9,,1,2
+Method,"Fractran.dump",5,,1,2
+Method,"Fractran.exec",8,,1,2
+File,"Fractran.java",45,3,1,11
+Public Static Method,"Fractran.main",3,,0,1
+Method,"Fractran.step",7,,1,3
+File,"Frobenius numbers.java",35,7,2,12
+Public Class,"Frobenius",35,7,2,12
+Private Static Method,"Frobenius.isPrime",16,,2,7
+Public Static Method,"Frobenius.main",17,,2,5
+File,"Function definition.java",5,1,0,2
+File,"General FizzBuzz.java",23,4,2,7
+Public Class,"GetInput",9,1,0,1
+Public Static Method,"GetInput.main",7,,0,1
+Public Class,"GetRCLanguages",105,7,4,15
+Private Static Class,"GetRCLanguages.LanguageComparator",12,2,1,2
+Public Method,"GetRCLanguages.LanguageComparator.compare",9,,1,2
+Private Static Method,"GetRCLanguages.after",10,,1,2
+Public Static Method,"GetRCLanguages.main",37,,2,6
+Public Static Method,"GetRCLanguages.parseContent",43,,4,7
+Class,"Graph",42,6,4,11
+Public Constructor,"Graph.Graph",7,,1,2
+Method,"Graph.hasDependency",7,,2,3
+Method,"Graph.topoSort",23,,4,6
+File,"Greatest common divisor.java",2,0,0,0
+File,"Greatest element of a list.java",1,0,0,0
+File,"HTTP.java",7,0,0,0
+File,"Halt and catch fire.java",4,1,0,1
+Public Final Class,"HaltAndCatchFire",4,1,0,1
+Public Static Method,"HaltAndCatchFire.main",2,,0,1
+File,"Hamming numbers.java",33,4,2,7
+Final Class,"Hamming",31,4,2,7
+Public Static Method,"Hamming.hamming",14,,2,4
+Public Static Method,"Hamming.main",7,,1,2
+Private Static Method,"Hamming.updateFrontier",6,,0,1
+File,"Hello world_Graphical.java",20,1,0,2
+File,"Hello world_Text.java",7,1,0,1
+File,"Hello world_Web server.java",15,2,1,2
+Public Class,"HelloWorld",6,1,0,1
+Public Class,"HelloWorld",11,2,1,2
+Public Static Method,"HelloWorld.main",4,,0,1
+Public Static Method,"HelloWorld.main",9,,1,2
+File,"Humble numbers.java",59,6,2,10
+Public Class,"HumbleNumbers",52,6,2,10
+Private Static Method,"HumbleNumbers.humble",33,,2,6
+Public Static Method,"HumbleNumbers.main",17,,1,4
+Lambda Method,"HumbleNumbers.main.(lambda_expr_1)",1,,0,1
+File,"Increment a numerical string.java",1,0,0,0
+File,"Input loop.java",12,2,1,2
+Public Class,"InputLoop",10,2,1,2
+Public Static Method,"InputLoop.main",8,,1,2
+File,"Integer comparison.java",16,5,2,5
+Public Class,"IntegerArithmetic",17,1,0,1
+Public Static Method,"IntegerArithmetic.main",15,,0,1
+Public Class,"IntegerLiterals",6,1,0,1
+Public Static Method,"IntegerLiterals.main",4,,0,1
+Public Class,"JortSort",8,1,0,2
+File,"JortSort.java",8,1,0,2
+Static Method,"JortSort.jortSort",3,,0,1
+Public Static Method,"JortSort.main",3,,0,1
+File,"Keyboard input_Obtain a Y or N response.java",39,3,2,8
+Public Final Class,"KeyboardInputObtainYOrN",5,1,0,2
+Public Static Method,"KeyboardInputObtainYOrN.main",3,,0,2
+Lambda Method,"KeyboardInputObtainYOrN.main.(lambda_expr_1)",1,,0,1
+Public Class,"LCM",19,7,3,7
+Public Static Method,"LCM.main",17,,3,7
+File,"Least common multiple.java",20,7,3,7
+Class,"LeftTruncatablePrime",62,7,2,15
+Public Static Method,"LeftTruncatablePrime.getLargestLeftTruncatablePrime",16,,2,4
+Private Static Method,"LeftTruncatablePrime.getNextLeftTruncatablePrimes",12,,2,4
+Public Static Method,"LeftTruncatablePrime.main",31,,2,7
+File,"Legendre prime counting function.java",47,7,3,16
+Public Class,"LegendrePrimeCounter",46,7,3,16
+Public Constructor,"LegendrePrimeCounter.LegendrePrimeCounter",3,,0,1
+Private Static Method,"LegendrePrimeCounter.generatePrimes",19,,3,7
+Public Static Method,"LegendrePrimeCounter.main",5,,1,2
+Private Method,"LegendrePrimeCounter.phi",10,,1,4
+Public Method,"LegendrePrimeCounter.primeCount",6,,1,2
+Public Class,"LexicographicalNumbers",21,2,1,4
+Static Method,"LexicographicalNumbers.lexOrder",12,,1,2
+Public Static Method,"LexicographicalNumbers.main",7,,1,2
+Public Class,"ListOrder",28,4,2,12
+Public Static Method,"ListOrder.ordered",8,,1,4
+Public Static Generic Method,"ListOrder.ordered",10,,2,4
+Generic Parameter,"ListOrder.ordered.T",,0,0,0
+Public Static Method,"ListOrder.ordered2",9,,2,4
+File,"Literals_Integer.java",6,1,0,1
+File,"Logical operations.java",1,0,0,0
+File,"Long primes.java",65,7,2,16
+Public Class,"LongPrimes",62,7,2,16
+Private Static Method,"LongPrimes.findPeriod",14,,1,3
+Public Static Method,"LongPrimes.main",25,,2,6
+Private Static Method,"LongPrimes.sieve",20,,2,7
+File,"Longest common subsequence.java",1,0,0,0
+Public Class,"LoopIncrementWithinBody",25,6,2,9
+Static Method,"LoopIncrementWithinBody.isPrime",12,,2,6
+Public Static Method,"LoopIncrementWithinBody.main",10,,2,3
+Public Class,"LoopsWithMultipleRanges",35,10,2,11
+Public Static Method,"LoopsWithMultipleRanges.main",28,,2,10
+Private Static Method,"LoopsWithMultipleRanges.pow",3,,0,1
+File,"Loops_Break.java",2,0,0,0
+File,"Loops_Do-while.java",1,0,0,0
+File,"Loops_Downward for.java",0,0,0,0
+File,"Loops_For with a specified step.java",0,0,0,0
+File,"Loops_For.java",0,0,0,0
+File,"Loops_Increment loop index within loop body.java",25,6,2,9
+File,"Loops_Infinite.java",1,0,0,0
+File,"Loops_N plus one half.java",1,0,0,0
+File,"Loops_While.java",1,0,0,0
+File,"Loops_With multiple ranges.java",37,10,2,11
+File,"Lucas-Lehmer test.java",40,5,3,12
+File,"Ludic numbers.java",39,4,2,8
+Public Class,"Ludic",37,4,2,8
+Public Static Method,"Ludic.getTriplets",14,,2,3
+Public Static Method,"Ludic.ludicUpTo",15,,2,4
+Public Static Method,"Ludic.main",6,,0,1
+File,"Magnanimous numbers.java",165,20,3,49
+Public Class,"MagnanimousNumbers",163,20,3,49
+Private Static Final Method,"MagnanimousNumbers.aSrp",14,,2,4
+Private Static Method,"MagnanimousNumbers.isMagnanimous",14,,2,4
+Public Static Final Method,"MagnanimousNumbers.isPrime",57,,2,20
+Private Static Final Method,"MagnanimousNumbers.isPrimeTrivial",7,,1,2
+Public Static Method,"MagnanimousNumbers.main",5,,0,1
+Public Static Final Method,"MagnanimousNumbers.modPow",21,,3,5
+Public Static Final Method,"MagnanimousNumbers.multiply",15,,2,5
+Private Static Method,"MagnanimousNumbers.runTask",12,,2,3
+Private Static Final Method,"MagnanimousNumbers.sieve",12,,3,5
+Public Class,"Mail",23,3,1,4
+Public Constructor,"Mail.Mail",6,,0,1
+Public Method,"Mail.send",14,,1,3
+Public Class,"Main",14,3,1,4
+Public Class,"Main",51,15,6,15
+Private Static Method,"Main.F",9,,1,3
+Public Static Method,"Main.main",3,,0,1
+Public Static Method,"Main.main",50,,6,15
+Public Class,"MainEntry",20,5,4,6
+Public Static Method,"MainEntry.main",3,,0,1
+Public Static Method,"MainEntry.walkin",15,,4,5
+File,"Man or boy test.java",16,2,0,9
+Public Class,"ManOrBoy",15,2,0,8
+Static Method,"ManOrBoy.A",10,,0,2
+Anonymous Class,"ManOrBoy.A.(Anon_1)",5,1,0,1
+Public Method,"ManOrBoy.A.(Anon_1).getAsDouble",3,,0,1
+Public Static Method,"ManOrBoy.main",3,,0,6
+Lambda Method,"ManOrBoy.main.(lambda_expr_1)",1,,0,1
+Lambda Method,"ManOrBoy.main.(lambda_expr_2)",1,,0,1
+Lambda Method,"ManOrBoy.main.(lambda_expr_3)",1,,0,1
+Lambda Method,"ManOrBoy.main.(lambda_expr_4)",1,,0,1
+Lambda Method,"ManOrBoy.main.(lambda_expr_5)",1,,0,1
+Public Class,"Math",4,1,0,2
+Public Static Method,"Math.multiply",1,,0,1
+Public Static Method,"Math.multiply",1,,0,1
+Public Class,"Merge",44,7,4,9
+Public Static Generic Method,"Merge.merge",33,,4,7
+Generic Parameter,"Merge.merge.E",,0,0,0
+Public Static Generic Method,"Merge.mergeSort",10,,1,2
+Generic Parameter,"Merge.mergeSort.E",,0,0,0
+File,"Mersenne primes.java",33,7,3,13
+Public Class,"Mersenne",39,5,3,12
+Public Static Method,"Mersenne.isMersennePrime",11,,2,3
+Public Static Method,"Mersenne.isPrime",13,,3,5
+Public Static Method,"Mersenne.main",12,,2,4
+Class,"MersenneFactorCheck",57,5,3,15
+Public Static Method,"MersenneFactorCheck.checkMersenneNumber",14,,1,3
+Public Static Method,"MersenneFactorCheck.findFactorMersenneNumber",20,,3,5
+Public Static Method,"MersenneFactorCheck.isPrime",12,,2,5
+Public Static Method,"MersenneFactorCheck.main",7,,1,2
+Public Class,"MersennePrimes",31,7,3,13
+Private Static Method,"MersennePrimes.isPrime",13,,2,7
+Public Static Method,"MersennePrimes.main",14,,3,6
+File,"Mertens function.java",97,12,3,23
+Public Class,"MertensFunction",97,12,3,23
+Public Static Method,"MertensFunction.main",52,,3,11
+Private Static Method,"MertensFunction.mertenFunction",40,,3,12
+Public Class,"MillerRabinPrimalityTest",7,2,0,2
+Public Static Method,"MillerRabinPrimalityTest.main",5,,0,2
+File,"Miller–Rabin primality test.java",8,2,0,2
+File,"Motzkin numbers.java",33,3,1,5
+Public Final Class,"MotzkinNumbers",28,3,1,5
+Public Static Method,"MotzkinNumbers.main",13,,1,3
+Private Static Method,"MotzkinNumbers.motzkinNumbers",12,,1,2
+File,"Multiplication tables.java",19,6,3,6
+Public Class,"MultiplicationTable",19,6,3,6
+Public Static Method,"MultiplicationTable.main",17,,3,6
+File,"Mutual recursion.java",33,3,1,9
+Public Class,"MutualRecursion",31,3,1,9
+Private Static Method,"MutualRecursion.f",8,,1,3
+Private Static Method,"MutualRecursion.m",8,,1,3
+Public Static Method,"MutualRecursion.main",11,,1,3
+File,"Möbius function.java",48,12,3,15
+Public Class,"MГ¶biusFunction",48,12,3,15
+Public Static Method,"MГ¶biusFunction.main",9,,2,3
+Private Static Method,"MГ¶biusFunction.mГ¶biusFunction",35,,3,12
+File,"N-smooth numbers.java",93,11,4,23
+Public Class,"NSmoothNumbers",89,11,4,23
+Private Static Final Method,"NSmoothNumbers.isPrime",12,,2,5
+Public Static Method,"NSmoothNumbers.main",49,,4,11
+Private Static Method,"NSmoothNumbers.nSmooth",27,,3,7
+File,"Nice primes.java",52,7,3,13
+Public Class,"NicePrimes",52,7,3,13
+Private Static Method,"NicePrimes.digitalRoot",6,,1,2
+Private Static Method,"NicePrimes.isPrime",23,,2,7
+Public Static Method,"NicePrimes.main",21,,3,4
+File,"Nth root.java",1,0,0,0
+File,"Null object.java",1,0,0,0
+Public Class,"NumberClassifications",22,4,2,6
+Public Static Method,"NumberClassifications.main",17,,2,4
+Public Static Method,"NumberClassifications.properDivsSum",3,,0,2
+Lambda Method,"NumberClassifications.properDivsSum.(lambda_expr_1)",1,,0,1
+File,"Numbers with prime digits whose sum is 13.java",27,4,3,7
+File,"Order by pair comparisons.java",22,3,2,4
+File,"Order two numerical lists.java",31,4,2,12
+Public Class,"OutputSwing",18,1,0,1
+Public Static Method,"OutputSwing.main",16,,0,1
+Anonymous Class,"OutputSwing.main.(Anon_1)",13,1,0,1
+Public Method,"OutputSwing.main.(Anon_1).run",12,,0,1
+File,"Palindrome detection.java",1,0,0,0
+Public Class,"PancakeSort",71,6,2,17
+Constructor,"PancakeSort.PancakeSort",4,,0,1
+Public Method,"PancakeSort.flip",8,,1,2
+Public Static Method,"PancakeSort.main",7,,1,2
+Public Method,"PancakeSort.minmax",16,,2,4
+Public Method,"PancakeSort.sort",26,,1,6
+Public Method,"PancakeSort.toString",6,,1,2
+File,"Partition an integer x into n primes.java",72,9,4,25
+File,"Partition function P.java",34,7,3,8
+Public Class,"PartitionFunction",33,7,3,8
+Public Static Method,"PartitionFunction.main",7,,0,1
+Private Static Method,"PartitionFunction.partitions",24,,3,7
+Public Class,"PartitionInteger",70,9,4,24
+Lambda Method,"PartitionInteger.(lambda_expr_1)",1,,0,1
+Private Static Method,"PartitionInteger.findCombo",25,,4,10
+Lambda Method,"PartitionInteger.findCombo.(lambda_expr_1)",1,,0,1
+Private Static Method,"PartitionInteger.isPrime",13,,2,7
+Public Static Method,"PartitionInteger.main",12,,0,1
+Private Static Method,"PartitionInteger.partition",14,,1,6
+Lambda Method,"PartitionInteger.partition.(lambda_expr_1)",1,,0,1
+Public Class,"PatienceSort",31,6,2,7
+Private Static Generic Class,"PatienceSort.Pile",3,1,0,1
+Generic Parameter,"PatienceSort.Pile.E",,0,0,0
+Public Method,"PatienceSort.Pile.compareTo",1,,0,1
+Public Static Method,"PatienceSort.main",5,,0,1
+Public Static Generic Method,"PatienceSort.sort",21,,2,6
+Generic Parameter,"PatienceSort.sort.E",,0,0,0
+File,"Perfect numbers.java",1,0,0,0
+Public Class,"PermutationSort",47,3,2,11
+Private Static Method,"PermutationSort.isSorted",7,,2,3
+Public Static Method,"PermutationSort.main",7,,0,1
+Public Static Method,"PermutationSort.pSort",9,,2,3
+Private Static Method,"PermutationSort.permute",16,,1,3
+Private Static Method,"PermutationSort.swap",6,,0,1
+File,"Pernicious numbers.java",24,5,2,10
+Public Class,"Pernicious",24,5,2,10
+Public Static Method,"Pernicious.isPrime",7,,2,4
+Public Static Method,"Pernicious.main",12,,2,5
+Public Static Method,"Pernicious.popCount",3,,0,1
+File,"Pierpont primes.java",58,7,2,11
+Public Class,"PierpontPrimes",54,7,2,11
+Private Static Method,"PierpontPrimes.display",11,,2,3
+Public Static Method,"PierpontPrimes.main",7,,0,1
+Public Static Method,"PierpontPrimes.pierpontPrimes",34,,2,7
+File,"Power set.java",2,0,0,0
+File,"Primality by Wilson's theorem.java",24,3,2,7
+File,"Primality by trial division.java",1,0,0,0
+Public Class,"PrimaltyByWilsonsTheorem",22,3,2,7
+Private Static Method,"PrimaltyByWilsonsTheorem.fact",7,,1,2
+Private Static Method,"PrimaltyByWilsonsTheorem.isPrime",6,,1,2
+Public Static Method,"PrimaltyByWilsonsTheorem.main",8,,2,3
+File,"Prime conspiracy.java",38,6,3,10
+File,"Prime decomposition.java",1,0,0,0
+Public Class,"PrimeConspiracy",38,6,3,10
+Public Static Method,"PrimeConspiracy.main",23,,3,6
+Public Static Method,"PrimeConspiracy.sieve",13,,3,4
+Public Class,"PrimeDescendants",89,10,4,23
+Private Static Method,"PrimeDescendants.findPrimes",17,,3,6
+Private Static Method,"PrimeDescendants.getAncestors",9,,1,2
+Public Static Method,"PrimeDescendants.main",7,,1,2
+Private Static Method,"PrimeDescendants.print",11,,1,3
+Private Static Method,"PrimeDescendants.printPrimeDesc",43,,4,10
+Public Class,"PrimeDigits",27,4,3,7
+Public Static Method,"PrimeDigits.main",13,,3,4
+Private Static Method,"PrimeDigits.primeDigitsSum13",12,,2,3
+Public Class,"PrimeGenerator",105,13,3,29
+Public Constructor,"PrimeGenerator.PrimeGenerator",6,,0,1
+Public Method,"PrimeGenerator.count",3,,0,1
+Private Method,"PrimeGenerator.findPrimes",26,,2,9
+Public Static Method,"PrimeGenerator.main",43,,3,13
+Private Static Method,"PrimeGenerator.nextOddNumber",3,,0,1
+Public Method,"PrimeGenerator.nextPrime",12,,2,3
+Private Static Method,"PrimeGenerator.sqrt",3,,0,1
+Public Class,"PrimeSum",23,3,2,5
+Private Static Method,"PrimeSum.digitSum",9,,1,2
+Public Static Method,"PrimeSum.main",12,,2,3
+File,"Primes - allocate descendants to their ancestors.java",91,10,4,23
+File,"Primes whose sum of digits is 25.java",24,3,2,5
+File,"Primorial numbers.java",38,4,3,11
+Public Class,"PrimorialNumbers",37,4,3,11
+Public Static Method,"PrimorialNumbers.main",8,,1,3
+Static Method,"PrimorialNumbers.primorial",12,,2,4
+Public Static Method,"PrimorialNumbers.sieve",13,,3,4
+Public Class,"PrimorialPrimes",40,4,3,11
+Public Static Method,"PrimorialPrimes.main",11,,2,3
+Static Method,"PrimorialPrimes.primorial",12,,2,4
+Public Static Method,"PrimorialPrimes.sieve",13,,3,4
+Public Class,"Printing",7,1,0,1
+Public Static Method,"Printing.main",5,,0,1
+File,"Program termination.java",1,0,0,0
+File,"Proper divisors.java",28,4,2,8
+Public Class,"Proper",25,4,2,8
+Public Static Method,"Proper.main",13,,2,4
+Public Static Method,"Proper.properDivs",10,,2,4
+Public Class,"QuickSelect",46,4,2,12
+Public Static Method,"QuickSelect.main",8,,2,3
+Private Static Generic Method,"QuickSelect.partition",13,,2,3
+Generic Parameter,"QuickSelect.partition.E",,0,0,0
+Private Static Generic Method,"QuickSelect.select",16,,2,4
+Generic Parameter,"QuickSelect.select.E",,0,0,0
+Private Static Method,"QuickSelect.swap",7,,1,2
+File,"Quickselect algorithm.java",47,4,2,12
+File,"RPG attributes generator.java",29,3,2,5
+File,"Ramer-Douglas-Peucker line simplification.java",2,0,0,0
+File,"Ranking methods.java",65,3,2,18
+Public Class,"RankingMethods",63,3,2,18
+Private Static Method,"RankingMethods.denseRanking",8,,2,3
+Private Static Method,"RankingMethods.fractionalRanking",11,,2,3
+Public Static Method,"RankingMethods.main",18,,2,4
+Lambda Method,"RankingMethods.main.(lambda_expr_1)",1,,0,1
+Private Static Method,"RankingMethods.modifiedRanking",8,,2,3
+Private Static Method,"RankingMethods.ordinalRanking",5,,1,2
+Private Static Method,"RankingMethods.standardRanking",10,,2,3
+File,"Read a file line by line.java",30,7,3,8
+Public Class,"ReadFileByLines",28,7,3,8
+Public Static Method,"ReadFileByLines.main",24,,3,7
+Private Static Method,"ReadFileByLines.processLine",2,,0,1
+File,"Real constants and functions.java",1,0,0,0
+Public Class,"RecursionTest",12,2,1,3
+Public Static Method,"RecursionTest.main",3,,0,1
+Private Static Method,"RecursionTest.recurse",7,,1,2
+File,"Remove duplicate elements.java",6,0,0,0
+File,"Rosetta Code_Rank languages by popularity.java",109,7,4,17
+Public Class,"Rpg",25,3,2,5
+Public Static Method,"Rpg.genAttribute",7,,0,1
+Public Static Method,"Rpg.main",15,,2,4
+Lambda Method,"Rpg.main.(lambda_expr_1)",1,,0,1
+File,"Safe primes and unsafe primes.java",61,12,4,12
+Public Class,"SafePrimes",61,12,4,12
+Public Static Method,"SafePrimes.main",59,,4,12
+File,"Selectively replace multiple instances of a character within a string.java",1,0,0,0
+Generic Interface,"SelfApplicable",4,0,0,0
+Generic Parameter,"SelfApplicable.OUTPUT",,0,0,0
+Abstract Method,"SelfApplicable.apply",1,,0,0
+Public Class,"SemiPrime",45,7,4,13
+Public Static Method,"SemiPrime.isSemi",4,,0,1
+Public Static Method,"SemiPrime.main",13,,2,5
+Public Static Method,"SemiPrime.primeDecomp",25,,4,7
+File,"Semiprime.java",48,7,4,13
+File,"Send email.java",31,3,1,4
+File,"Sequence of primes by trial division.java",20,4,2,8
+File,"Sequence of primorial primes.java",41,4,3,11
+File,"Sexy primes.java",67,10,3,15
+Public Class,"SexyPrimes",65,10,3,15
+Public Static Method,"SexyPrimes.main",49,,3,10
+Private Static Final Method,"SexyPrimes.sieve",12,,3,5
+File,"Sieve of Eratosthenes.java",19,5,2,5
+Public Class,"Sieve",18,5,2,5
+Public Static Method,"Sieve.sieve",16,,2,5
+File,"Simple windowed application.java",37,1,0,4
+Public Class,"SleepSort",25,2,1,4
+Public Static Method,"SleepSort.main",6,,1,2
+Public Static Method,"SleepSort.sleepSortAndPrint",17,,0,2
+Anonymous Class,"SleepSort.sleepSortAndPrint.(Anon_1)",11,2,1,2
+Public Method,"SleepSort.sleepSortAndPrint.(Anon_1).run",10,,1,2
+File,"Smarandache prime-digital sequence.java",64,8,2,21
+Public Class,"SmarandachePrimeDigitalSequence",64,8,2,21
+Private Static Method,"SmarandachePrimeDigitalSequence.getNextSmarandache",19,,1,5
+Private Static Final Method,"SmarandachePrimeDigitalSequence.getSmarandachePrime",19,,2,8
+Private Static Final Method,"SmarandachePrimeDigitalSequence.isPrime",9,,2,4
+Public Static Method,"SmarandachePrimeDigitalSequence.main",15,,2,4
+Public Class,"SocketSend",11,1,0,2
+Public Static Method,"SocketSend.main",3,,0,1
+Public Static Method,"SocketSend.sendData",6,,0,1
+File,"Sockets.java",13,1,0,2
+File,"Sort a list of object identifiers.java",27,6,2,7
+File,"Sort an array of composite structures.java",30,2,1,5
+File,"Sort an integer array.java",8,1,0,1
+File,"Sort disjoint sublist.java",26,3,1,4
+File,"Sort numbers lexicographically.java",23,2,1,4
+File,"Sort three variables.java",36,1,0,3
+File,"Sort using a custom comparator.java",17,2,1,4
+Public Class,"Sort3Vars",28,1,0,2
+Public Static Method,"Sort3Vars.main",26,,0,2
+Lambda Method,"Sort3Vars.main.(lambda_expr_1)",1,,0,1
+Public Class,"SortComp",27,2,1,3
+Public Static Class,"SortComp.Pair",8,1,0,1
+Public Constructor,"SortComp.Pair.Pair",4,,0,1
+Public Static Method,"SortComp.main",11,,1,2
+Public Static Method,"SortComp.sortByName",7,,0,1
+Anonymous Class,"SortComp.sortByName.(Anon_1)",4,1,0,1
+Public Method,"SortComp.sortByName.(Anon_1).compare",3,,0,1
+Public Class,"SortComp1",21,3,2,3
+Public Static Method,"SortComp1.main",19,,2,3
+Anonymous Class,"SortComp1.main.(Anon_1)",7,1,0,1
+Public Method,"SortComp1.main.(Anon_1).compare",4,,0,1
+File,"Sorting Algorithms_Circle Sort.java",39,5,2,10
+File,"Sorting algorithms_Bead sort.java",68,9,2,17
+File,"Sorting algorithms_Bogosort.java",45,3,2,11
+File,"Sorting algorithms_Bubble sort.java",1,0,0,0
+File,"Sorting algorithms_Cocktail sort with shifting bounds.java",42,7,3,9
+File,"Sorting algorithms_Cocktail sort.java",1,0,0,0
+File,"Sorting algorithms_Comb sort.java",1,0,0,0
+File,"Sorting algorithms_Counting sort.java",1,0,0,0
+File,"Sorting algorithms_Cycle sort.java",41,10,4,11
+File,"Sorting algorithms_Gnome sort.java",2,0,0,0
+File,"Sorting algorithms_Heapsort.java",1,0,0,0
+File,"Sorting algorithms_Insertion sort.java",1,0,0,0
+File,"Sorting algorithms_Merge sort.java",48,7,4,9
+File,"Sorting algorithms_Pancake sort.java",71,6,2,17
+File,"Sorting algorithms_Patience sort.java",32,6,2,8
+File,"Sorting algorithms_Permutation sort.java",51,3,2,11
+File,"Sorting algorithms_Quicksort.java",1,0,0,0
+File,"Sorting algorithms_Radix sort.java",1,0,0,0
+File,"Sorting algorithms_Selection sort.java",1,0,0,0
+File,"Sorting algorithms_Shell sort.java",1,0,0,0
+File,"Sorting algorithms_Sleep sort.java",26,2,1,6
+File,"Sorting algorithms_Stooge sort.java",24,3,1,5
+File,"Sorting algorithms_Strand sort.java",40,5,3,9
+File,"Split a character string based on change of character.java",3,0,0,0
+Public Class,"Stooge",23,3,1,5
+Public Static Method,"Stooge.main",5,,0,1
+Public Static Method,"Stooge.stoogeSort",3,,0,1
+Public Static Method,"Stooge.stoogeSort",13,,1,3
+Public Class,"Strand",38,5,3,9
+Public Static Method,"Strand.main",5,,0,1
+Private Static Generic Method,"Strand.merge",13,,2,3
+Generic Parameter,"Strand.merge.E",,0,0,0
+Public Static Generic Method,"Strand.strandSort",18,,3,5
+Generic Parameter,"Strand.strandSort.E",,0,0,0
+File,"Strange numbers.java",46,3,2,9
+File,"Strange plus numbers.java",25,4,2,8
+File,"Strange unique prime triplets.java",57,10,5,19
+Public Class,"Strange",25,4,2,8
+Public Static Method,"Strange.isstrange",7,,2,4
+Public Static Method,"Strange.main",10,,2,4
+Public Class,"StrangeNumbers",41,3,2,9
+Private Static Method,"StrangeNumbers.digits",9,,1,2
+Private Static Method,"StrangeNumbers.isStrange",13,,2,4
+Lambda Method,"StrangeNumbers.isStrange.(lambda_expr_1)",4,,0,1
+Public Static Method,"StrangeNumbers.main",17,,2,3
+Public Class,"StrangeUniquePrimeTriplets",56,10,5,19
+Public Static Method,"StrangeUniquePrimeTriplets.main",4,,0,1
+Private Static Method,"StrangeUniquePrimeTriplets.primeSieve",21,,3,8
+Private Static Method,"StrangeUniquePrimeTriplets.strangeUniquePrimeTriplets",29,,5,10
+File,"String append.java",1,0,0,0
+File,"String comparison.java",34,7,1,8
+File,"String concatenation.java",1,0,0,0
+File,"String interpolation (included).java",1,0,0,0
+File,"String matching.java",1,0,0,0
+File,"String prepend.java",1,0,0,0
+File,"Strong and weak primes.java",94,5,3,22
+Public Class,"StrongAndWeakPrimes",94,5,3,22
+Private Static Method,"StrongAndWeakPrimes.displayStrongPrimes",15,,2,3
+Private Static Method,"StrongAndWeakPrimes.displayWeakPrimes",15,,2,3
+Private Static Method,"StrongAndWeakPrimes.getNextPrime",7,,1,2
+Public Static Method,"StrongAndWeakPrimes.main",13,,1,3
+Private Static Final Method,"StrongAndWeakPrimes.sieve",12,,3,5
+Private Static Method,"StrongAndWeakPrimes.strongPrimesBelow",14,,2,3
+Private Static Method,"StrongAndWeakPrimes.weakPrimesBelow",14,,2,3
+File,"Substring.java",1,0,0,0
+File,"Successive prime differences.java",63,7,3,14
+Public Class,"SuccessivePrimeDifferences",60,7,3,14
+Public Static Method,"SuccessivePrimeDifferences.main",17,,2,3
+Private Static Method,"SuccessivePrimeDifferences.sieve",24,,2,7
+Private Static Method,"SuccessivePrimeDifferences.successivePrimes",17,,3,4
+File,"Sudan function.java",14,3,1,4
+File,"System time.java",5,1,0,1
+Public Class,"SystemTime",5,1,0,1
+Public Static Method,"SystemTime.main",3,,0,1
+File,"Tau number.java",33,5,3,9
+Public Class,"Tau",33,5,3,9
+Private Static Method,"Tau.divisorCount",17,,2,5
+Public Static Method,"Tau.main",14,,3,4
+Public Class,"Test",35,8,4,14
+Final Class,"Test",15,3,2,3
+Public Class,"Test",19,4,2,8
+Public Class,"Test",14,2,1,2
+Public Constructor,"Test.Test",13,,2,3
+Static Method,"Test.getPrimes",3,,0,2
+Lambda Method,"Test.getPrimes.(lambda_expr_1)",1,,0,1
+Static Method,"Test.isPrime",11,,2,5
+Public Static Method,"Test.isPrime",11,,2,4
+Public Static Method,"Test.main",20,,4,8
+Public Static Method,"Test.main",3,,0,2
+Public Static Method,"Test.main",13,,1,2
+Anonymous Class,"Test.main.(Anon_1)",7,2,1,2
+Public Method,"Test.main.(Anon_1).compare",6,,1,2
+Lambda Method,"Test.main.(lambda_expr_1)",1,,0,1
+Static Method,"Test.mod",3,,0,1
+File,"The sieve of Sundaram.java",34,6,2,9
+Public Final Class,"TheSieveOfSundaram",32,6,2,9
+Public Static Method,"TheSieveOfSundaram.main",9,,1,3
+Private Static Method,"TheSieveOfSundaram.sieveOfSundaram",21,,2,6
+File,"Tokenize a string.java",1,0,0,0
+File,"Topological sort.java",65,6,4,12
+Public Class,"TopologicalSort",22,1,0,1
+Public Static Method,"TopologicalSort.main",20,,0,1
+File,"Totient function.java",36,5,2,11
+Public Class,"TotientFunction",36,5,2,11
+Private Static Final Method,"TotientFunction.computePhi",11,,2,5
+Private Static Method,"TotientFunction.countPrimes",9,,2,3
+Public Static Method,"TotientFunction.main",12,,1,3
+File,"Towers of Hanoi.java",1,0,0,0
+File,"Tree traversal.java",2,0,0,0
+File,"Truncatable primes.java",53,15,6,15
+File,"Twin primes.java",25,4,2,7
+File,"Two's complement.java",22,2,1,5
+Public Final Class,"TwosComplement",21,2,1,5
+Public Static Method,"TwosComplement.main",10,,1,2
+Private Static Method,"TwosComplement.toBinary",3,,0,1
+Private Static Method,"TwosComplement.toHex",3,,0,1
+Private Static Method,"TwosComplement.twosComplement",3,,0,1
+File,"Ulam spiral (for primes).java",37,13,2,14
+Public Class,"Ulam",35,13,2,14
+Enum Type,"Ulam.Direction",3,0,0,0
+Public Implicit Method,"Ulam.Direction.valueOf",,,,0
+Public Implicit Method,"Ulam.Direction.values",,,,0
+Private Static Method,"Ulam.genUlam",3,,0,1
+Private Static Method,"Ulam.genUlam",26,,2,13
+File,"Unprimeable numbers.java",85,5,3,22
+Public Class,"UnprimeableNumbers",85,5,3,22
+Private Static Method,"UnprimeableNumbers.displayUnprimeableNumbers",12,,2,3
+Private Static Method,"UnprimeableNumbers.genLowest",13,,2,3
+Public Static Method,"UnprimeableNumbers.main",12,,1,2
+Private Static Method,"UnprimeableNumbers.nthUnprimeableNumber",13,,2,3
+Private Static Method,"UnprimeableNumbers.replace",5,,0,1
+Private Static Final Method,"UnprimeableNumbers.sieve",12,,3,5
+Private Static Method,"UnprimeableNumbers.unPrimable",14,,3,5
+File,"User input_Text.java",10,1,0,1
+Class,"Utils",14,3,1,7
+Public Static Method,"Utils.fib",7,,1,4
+Lambda Method,"Utils.fib.(lambda_expr_1)",1,,0,2
+Lambda Method,"Utils.fib.(lambda_expr_1).(lambda_expr_2)",1,,0,1
+Public Static Generic Method,"Utils.fix",3,,0,1
+Generic Parameter,"Utils.fix.INPUT",,0,0,0
+Generic Parameter,"Utils.fix.OUTPUT",,0,0,0
+Public Static Generic Method,"Utils.y",3,,0,2
+Lambda Method,"Utils.y.(lambda_expr_1)",1,,0,2
+Lambda Method,"Utils.y.(lambda_expr_1).(lambda_expr_2)",1,,0,2
+Lambda Method,"Utils.y.(lambda_expr_1).(lambda_expr_2).(lambda_expr_3)",1,,0,1
+Generic Parameter,"Utils.y.INPUT",,0,0,0
+Generic Parameter,"Utils.y.OUTPUT",,0,0,0
+File,"Walk a directory_Recursively.java",21,5,4,6
+File,"Web scraping.java",30,4,2,4
+Public Final Class,"WebScraping",23,4,2,4
+Public Static Method,"WebScraping.main",21,,2,4
+File,"Wieferich primes.java",51,8,3,17
+Public Class,"WieferichPrimes",50,8,3,17
+Public Static Method,"WieferichPrimes.main",6,,1,2
+Private Static Method,"WieferichPrimes.modpow",12,,2,4
+Private Static Method,"WieferichPrimes.primeSieve",21,,3,8
+Private Static Method,"WieferichPrimes.wieferichPrimes",9,,2,3
+File,"Wilson primes of order n.java",47,7,3,12
+Public Class,"WilsonPrimes",45,7,3,12
+Private Static Method,"WilsonPrimes.generatePrimes",19,,3,7
+Public Static Method,"WilsonPrimes.main",24,,3,5
+File,"Yellowstone sequence.java",49,7,4,10
+Public Class,"YellowstoneSequence",47,7,4,10
+Private Static Final Method,"YellowstoneSequence.gcd",6,,1,2
+Public Static Method,"YellowstoneSequence.main",3,,0,1
+Private Static Method,"YellowstoneSequence.yellowstoneSequence",36,,4,7
+Final Class,"YesOrNoKeyAdapter",14,3,1,3
+Public Method,"YesOrNoKeyAdapter.keyPressed",12,,1,3
+File,"Zero to the zero power.java",1,0,0,0
+Public Class,"additivePrimes",34,4,2,9
+Static Method,"additivePrimes.digitSum",8,,1,2
+Static Method,"additivePrimes.isPrime",14,,2,4
+Public Static Method,"additivePrimes.main",10,,2,3
+Package,"com",0,0,0,0
+Package,"com.rosettacode",27,6,2,7
+Public Class,"com.rosettacode.OIDListSorting",24,1,2,7
+Public Static Method,"com.rosettacode.OIDListSorting.main",22,,2,7
+Lambda Method,"com.rosettacode.OIDListSorting.main.(lambda_expr_1)",15,,0,6
+Public Class,"compInt",15,5,2,5
+Public Static Method,"compInt.main",13,,2,5
+Package,"programas",46,4,2,8
+Public Class,"programas.IterativeFactorial",41,4,2,8
+Public Method,"programas.IterativeFactorial.factorial",15,,2,4
+Public Static Method,"programas.IterativeFactorial.main",25,,2,4
+Public Class,"twinPrimes",22,4,2,7
+Public Static Method,"twinPrimes.findPrime",8,,2,3
+Public Static Method,"twinPrimes.main",13,,2,4
